@@ -1,0 +1,4042 @@
+[
+  {
+    "id": 1,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "Fiction",
+    "summary": "A novel about racial injustice and moral growth in the Deep South.",
+    "publication_year": 1960
+  },
+  {
+    "id": 2,
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "Dystopian",
+    "summary": "A story about a totalitarian society ruled by Big Brother.",
+    "publication_year": 1949
+  },
+  {
+    "id": 3,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "genre": "Romance",
+    "summary": "A classic love story set in 19th-century England.",
+    "publication_year": 1813
+  },
+  {
+    "id": 4,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Classic",
+    "summary": "A critique of the American Dream in the Roaring Twenties.",
+    "publication_year": 1925
+  },
+  {
+    "id": 5,
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "genre": "Adventure",
+    "summary": "A whaling voyage turns into an obsession for revenge.",
+    "publication_year": 1851
+  },
+  {
+    "id": 6,
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "genre": "Historical Fiction",
+    "summary": "A sweeping novel set during the Napoleonic Wars.",
+    "publication_year": 1869
+  },
+  {
+    "id": 7,
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "genre": "Psychological Fiction",
+    "summary": "A man struggles with guilt after committing murder.",
+    "publication_year": 1866
+  },
+  {
+    "id": 8,
+    "title": "Jane Eyre",
+    "author": "Charlotte Brontë",
+    "genre": "Gothic Fiction",
+    "summary": "An orphaned girl finds love and independence.",
+    "publication_year": 1847
+  },
+  {
+    "id": 9,
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "genre": "Fiction",
+    "summary": "A teenager’s journey through alienation and rebellion.",
+    "publication_year": 1951
+  },
+  {
+    "id": 10,
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "genre": "Dystopian",
+    "summary": "A futuristic world driven by technology and pleasure.",
+    "publication_year": 1932
+  },
+  {
+    "id": 11,
+    "title": "Wuthering Heights",
+    "author": "Emily Brontë",
+    "genre": "Gothic Fiction",
+    "summary": "A tale of passion, revenge, and haunting love.",
+    "publication_year": 1847
+  },
+  {
+    "id": 12,
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "summary": "A hobbit's journey to reclaim a lost kingdom from a dragon.",
+    "publication_year": 1937
+  },
+  {
+    "id": 13,
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "genre": "Dystopian",
+    "summary": "A society where books are banned and burned.",
+    "publication_year": 1953
+  },
+  {
+    "id": 14,
+    "title": "Anna Karenina",
+    "author": "Leo Tolstoy",
+    "genre": "Classic",
+    "summary": "A tragic love story set in Russian high society.",
+    "publication_year": 1877
+  },
+  {
+    "id": 15,
+    "title": "The Odyssey",
+    "author": "Homer",
+    "genre": "Epic",
+    "summary": "The legendary journey of Odysseus returning home.",
+    "publication_year": -700
+  },
+  {
+    "id": 16,
+    "title": "The Iliad",
+    "author": "Homer",
+    "genre": "Epic",
+    "summary": "A dramatic account of the Trojan War.",
+    "publication_year": -750
+  },
+  {
+    "id": 17,
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "genre": "Horror",
+    "summary": "A vampire count threatens Victorian England.",
+    "publication_year": 1897
+  },
+  {
+    "id": 18,
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "genre": "Horror",
+    "summary": "A scientist creates life with unintended consequences.",
+    "publication_year": 1818
+  },
+  {
+    "id": 19,
+    "title": "Les Misérables",
+    "author": "Victor Hugo",
+    "genre": "Historical Fiction",
+    "summary": "A story of justice, redemption, and revolution in France.",
+    "publication_year": 1862
+  },
+  {
+    "id": 20,
+    "title": "Don Quixote",
+    "author": "Miguel de Cervantes",
+    "genre": "Classic",
+    "summary": "A nobleman imagines himself a knight on a quest.",
+    "publication_year": 1605
+  },
+  {
+    "id": 21,
+    "title": "Jane Eyre",
+    "author": "Charlotte Brontë",
+    "genre": "Gothic Fiction",
+    "summary": "An orphaned girl finds love and independence.",
+    "publication_year": 1847
+  },
+  {
+    "id": 22,
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "genre": "Dystopian",
+    "summary": "A futuristic society controlled by pleasure and conformity.",
+    "publication_year": 1932
+  },
+  {
+    "id": 23,
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "genre": "Fiction",
+    "summary": "A rebellious teenager's journey of self-discovery.",
+    "publication_year": 1951
+  },
+  {
+    "id": 24,
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "genre": "Gothic Fiction",
+    "summary": "A man stays young while his portrait ages.",
+    "publication_year": 1890
+  },
+  {
+    "id": 25,
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "genre": "Philosophical Fiction",
+    "summary": "A man wrestles with guilt after committing murder.",
+    "publication_year": 1866
+  },
+  {
+    "id": 26,
+    "title": "The Brothers Karamazov",
+    "author": "Fyodor Dostoevsky",
+    "genre": "Philosophical Fiction",
+    "summary": "A deep exploration of faith, morality, and free will.",
+    "publication_year": 1880
+  },
+  {
+    "id": 27,
+    "title": "The Grapes of Wrath",
+    "author": "John Steinbeck",
+    "genre": "Historical Fiction",
+    "summary": "A family's struggle during the Great Depression.",
+    "publication_year": 1939
+  },
+  {
+    "id": 28,
+    "title": "Of Mice and Men",
+    "author": "John Steinbeck",
+    "genre": "Classic",
+    "summary": "Two friends chase the American Dream during the Depression.",
+    "publication_year": 1937
+  },
+  {
+    "id": 29,
+    "title": "A Tale of Two Cities",
+    "author": "Charles Dickens",
+    "genre": "Historical Fiction",
+    "summary": "Love and sacrifice during the French Revolution.",
+    "publication_year": 1859
+  },
+  {
+    "id": 30,
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "genre": "Adventure",
+    "summary": "A captain seeks revenge on a giant white whale.",
+    "publication_year": 1851
+  },
+  {
+    "id": 31,
+    "title": "The Odyssey",
+    "author": "Homer",
+    "genre": "Epic Poetry",
+    "summary": "Odysseus' journey home after the Trojan War.",
+    "publication_year": -800
+  },
+  {
+    "id": 32,
+    "title": "The Iliad",
+    "author": "Homer",
+    "genre": "Epic Poetry",
+    "summary": "A tale of heroism and wrath during the Trojan War.",
+    "publication_year": -750
+  },
+  {
+    "id": 33,
+    "title": "Les Misérables",
+    "author": "Victor Hugo",
+    "genre": "Historical Fiction",
+    "summary": "The struggle of an ex-convict seeking redemption.",
+    "publication_year": 1862
+  },
+  {
+    "id": 34,
+    "title": "Anna Karenina",
+    "author": "Leo Tolstoy",
+    "genre": "Romance",
+    "summary": "A tragic love story set in Russian high society.",
+    "publication_year": 1878
+  },
+  {
+    "id": 35,
+    "title": "The Count of Monte Cristo",
+    "author": "Alexandre Dumas",
+    "genre": "Adventure",
+    "summary": "A man seeks revenge after being wrongfully imprisoned.",
+    "publication_year": 1844
+  },
+  {
+    "id": 36,
+    "title": "The Sun Also Rises",
+    "author": "Ernest Hemingway",
+    "genre": "Modernist Fiction",
+    "summary": "A story of the lost generation after World War I.",
+    "publication_year": 1926
+  },
+  {
+    "id": 37,
+    "title": "The Old Man and the Sea",
+    "author": "Ernest Hemingway",
+    "genre": "Fiction",
+    "summary": "An aging fisherman's battle with a giant marlin.",
+    "publication_year": 1952
+  },
+  {
+    "id": 38,
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "genre": "Gothic Fiction",
+    "summary": "A scientist creates a monster that haunts him.",
+    "publication_year": 1818
+  },
+  {
+    "id": 39,
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "genre": "Horror",
+    "summary": "A vampire terrorizes Victorian England.",
+    "publication_year": 1897
+  },
+  {
+    "id": 40,
+    "title": "Slaughterhouse-Five",
+    "author": "Kurt Vonnegut",
+    "genre": "Science Fiction",
+    "summary": "A soldier experiences time travel and the horrors of war.",
+    "publication_year": 1969
+  },
+  {
+    "id": 41,
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "genre": "Dystopian",
+    "summary": "A world where books are banned and burned.",
+    "publication_year": 1953
+  },
+  {
+    "id": 42,
+    "title": "Wuthering Heights",
+    "author": "Emily Brontë",
+    "genre": "Gothic Fiction",
+    "summary": "A tale of passion and revenge on the English moors.",
+    "publication_year": 1847
+  },
+  {
+    "id": 43,
+    "title": "Don Quixote",
+    "author": "Miguel de Cervantes",
+    "genre": "Satire",
+    "summary": "A man believes himself to be a knight in a chivalric world.",
+    "publication_year": 1605
+  },
+  {
+    "id": 44,
+    "title": "The Stranger",
+    "author": "Albert Camus",
+    "genre": "Philosophical Fiction",
+    "summary": "A man's indifferent reaction to life and death.",
+    "publication_year": 1942
+  },
+  {
+    "id": 45,
+    "title": "The Metamorphosis",
+    "author": "Franz Kafka",
+    "genre": "Absurdist Fiction",
+    "summary": "A man wakes up transformed into a giant insect.",
+    "publication_year": 1915
+  },
+  {
+    "id": 46,
+    "title": "Beloved",
+    "author": "Toni Morrison",
+    "genre": "Historical Fiction",
+    "summary": "A woman haunted by her past as a former slave.",
+    "publication_year": 1987
+  },
+  {
+    "id": 47,
+    "title": "One Hundred Years of Solitude",
+    "author": "Gabriel García Márquez",
+    "genre": "Magical Realism",
+    "summary": "The rise and fall of a mythical family in Macondo.",
+    "publication_year": 1967
+  },
+  {
+    "id": 48,
+    "title": "The Sound and the Fury",
+    "author": "William Faulkner",
+    "genre": "Modernist Fiction",
+    "summary": "The decline of a Southern family told through multiple perspectives.",
+    "publication_year": 1929
+  },
+  {
+    "id": 49,
+    "title": "Catch-22",
+    "author": "Joseph Heller",
+    "genre": "Satire",
+    "summary": "A soldier trapped in a bureaucratic paradox during WWII.",
+    "publication_year": 1961
+  },
+  {
+    "id": 50,
+    "title": "Invisible Man",
+    "author": "Ralph Ellison",
+    "genre": "Fiction",
+    "summary": "A black man's journey for identity in a racist society.",
+    "publication_year": 1952
+  },
+  {
+    "id": 51,
+    "title": "The Road",
+    "author": "Cormac McCarthy",
+    "genre": "Post-Apocalyptic Fiction",
+    "summary": "A father and son struggle for survival in a desolate world.",
+    "publication_year": 2006
+  },
+  {
+    "id": 52,
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "genre": "Philosophical Fiction",
+    "summary": "A shepherd searches for his personal legend.",
+    "publication_year": 1988
+  },
+  {
+    "id": 53,
+    "title": "The Bell Jar",
+    "author": "Sylvia Plath",
+    "genre": "Autobiographical Fiction",
+    "summary": "A young woman's struggle with mental illness.",
+    "publication_year": 1963
+  },
+  {
+    "id": 54,
+    "title": "The House of the Spirits",
+    "author": "Isabel Allende",
+    "genre": "Magical Realism",
+    "summary": "A family saga spanning generations in Chile.",
+    "publication_year": 1982
+  },
+  {
+    "id": 55,
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "genre": "Science Fiction",
+    "summary": "A young leader rises on a desert planet filled with intrigue.",
+    "publication_year": 1965
+  },
+  {
+    "id": 56,
+    "title": "A Clockwork Orange",
+    "author": "Anthony Burgess",
+    "genre": "Dystopian",
+    "summary": "A young delinquent undergoes controversial rehabilitation.",
+    "publication_year": 1962
+  },
+  {
+    "id": 57,
+    "title": "The Kite Runner",
+    "author": "Khaled Hosseini",
+    "genre": "Historical Fiction",
+    "summary": "A tale of friendship and redemption in Afghanistan.",
+    "publication_year": 2003
+  },
+  {
+    "id": 58,
+    "title": "Life of Pi",
+    "author": "Yann Martel",
+    "genre": "Adventure",
+    "summary": "A boy survives at sea with a tiger.",
+    "publication_year": 2001
+  },
+  {
+    "id": 59,
+    "title": "Gone with the Wind",
+    "author": "Margaret Mitchell",
+    "genre": "Historical Fiction",
+    "summary": "A Southern belle's survival during the Civil War.",
+    "publication_year": 1936
+  },
+  {
+    "id": 60,
+    "title": "Persuasion",
+    "author": "Jane Austen",
+    "genre": "Romance",
+    "summary": "A woman gets a second chance at love.",
+    "publication_year": 1817
+  },
+  {
+    "id": 61,
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "genre": "Dystopian",
+    "summary": "A future society controlled by technology and pleasure.",
+    "publication_year": 1932
+  },
+  {
+    "id": 62,
+    "title": "Of Mice and Men",
+    "author": "John Steinbeck",
+    "genre": "Fiction",
+    "summary": "Two displaced ranch workers dream of a better life.",
+    "publication_year": 1937
+  },
+  {
+    "id": 63,
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "genre": "Adventure",
+    "summary": "A whaling captain seeks revenge on a great white whale.",
+    "publication_year": 1851
+  },
+  {
+    "id": 64,
+    "title": "Jane Eyre",
+    "author": "Charlotte Brontë",
+    "genre": "Gothic Fiction",
+    "summary": "An orphaned governess finds love and independence.",
+    "publication_year": 1847
+  },
+  {
+    "id": 65,
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "genre": "Gothic Fiction",
+    "summary": "A man’s portrait ages while he remains young.",
+    "publication_year": 1890
+  },
+  {
+    "id": 66,
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "genre": "Fiction",
+    "summary": "A rebellious teen navigates life and identity in New York.",
+    "publication_year": 1951
+  },
+  {
+    "id": 67,
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "genre": "Psychological Fiction",
+    "summary": "A man struggles with guilt after committing murder.",
+    "publication_year": 1866
+  },
+  {
+    "id": 68,
+    "title": "The Brothers Karamazov",
+    "author": "Fyodor Dostoevsky",
+    "genre": "Philosophical Fiction",
+    "summary": "A family drama exploring faith, morality, and free will.",
+    "publication_year": 1880
+  },
+  {
+    "id": 69,
+    "title": "A Tale of Two Cities",
+    "author": "Charles Dickens",
+    "genre": "Historical Fiction",
+    "summary": "A story of love and sacrifice during the French Revolution.",
+    "publication_year": 1859
+  },
+  {
+    "id": 70,
+    "title": "Great Expectations",
+    "author": "Charles Dickens",
+    "genre": "Fiction",
+    "summary": "An orphan boy’s journey to become a gentleman.",
+    "publication_year": 1861
+  },
+  {
+    "id": 71,
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "genre": "Historical Fiction",
+    "summary": "A sweeping tale of Russian society during the Napoleonic Wars.",
+    "publication_year": 1869
+  },
+  {
+    "id": 72,
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "summary": "A hobbit embarks on a journey to reclaim a lost treasure.",
+    "publication_year": 1937
+  },
+  {
+    "id": 73,
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "summary": "A quest to destroy a powerful ring and save Middle-earth.",
+    "publication_year": 1954
+  },
+  {
+    "id": 74,
+    "title": "The Book Thief",
+    "author": "Markus Zusak",
+    "genre": "Historical Fiction",
+    "summary": "A young girl steals books in Nazi Germany.",
+    "publication_year": 2005
+  },
+  {
+    "id": 75,
+    "title": "The Giver",
+    "author": "Lois Lowry",
+    "genre": "Dystopian",
+    "summary": "A boy learns the truth about his controlled society.",
+    "publication_year": 1993
+  },
+  {
+    "id": 76,
+    "title": "Memoirs of a Geisha",
+    "author": "Arthur Golden",
+    "genre": "Historical Fiction",
+    "summary": "The life story of a Japanese geisha.",
+    "publication_year": 1997
+  },
+  {
+    "id": 77,
+    "title": "The Name of the Wind",
+    "author": "Patrick Rothfuss",
+    "genre": "Fantasy",
+    "summary": "A gifted young man tells the story of his life.",
+    "publication_year": 2007
+  },
+  {
+    "id": 78,
+    "title": "The Night Circus",
+    "author": "Erin Morgenstern",
+    "genre": "Fantasy",
+    "summary": "A magical competition between two young illusionists.",
+    "publication_year": 2011
+  },
+  {
+    "id": 79,
+    "title": "The Girl with the Dragon Tattoo",
+    "author": "Stieg Larsson",
+    "genre": "Mystery",
+    "summary": "A journalist and hacker uncover dark secrets.",
+    "publication_year": 2005
+  },
+  {
+    "id": 80,
+    "title": "Shantaram",
+    "author": "Gregory David Roberts",
+    "genre": "Autobiographical Fiction",
+    "summary": "A fugitive finds himself in the underworld of Bombay.",
+    "publication_year": 2003
+  },
+  {
+    "id": 81,
+    "title": "The Shadow of the Wind",
+    "author": "Carlos Ruiz Zafón",
+    "genre": "Mystery",
+    "summary": "A young boy discovers a forgotten book with a dark past.",
+    "publication_year": 2001
+  },
+  {
+    "id": 82,
+    "title": "American Gods",
+    "author": "Neil Gaiman",
+    "genre": "Fantasy",
+    "summary": "A man becomes involved in a war between old and new gods.",
+    "publication_year": 2001
+  },
+  {
+    "id": 83,
+    "title": "Cloud Atlas",
+    "author": "David Mitchell",
+    "genre": "Science Fiction",
+    "summary": "Six interconnected stories spanning centuries.",
+    "publication_year": 2004
+  },
+  {
+    "id": 84,
+    "title": "Middlesex",
+    "author": "Jeffrey Eugenides",
+    "genre": "Historical Fiction",
+    "summary": "A coming-of-age story about identity and transformation.",
+    "publication_year": 2002
+  },
+  {
+    "id": 85,
+    "title": "A Little Life",
+    "author": "Hanya Yanagihara",
+    "genre": "Literary Fiction",
+    "summary": "The emotional journey of four friends over decades.",
+    "publication_year": 2015
+  },
+  {
+    "id": 86,
+    "title": "The Underground Railroad",
+    "author": "Colson Whitehead",
+    "genre": "Historical Fiction",
+    "summary": "A reimagined escape from slavery through an underground train system.",
+    "publication_year": 2016
+  },
+  {
+    "id": 87,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "genre": "Romance",
+    "summary": "A classic tale of love, society, and class.",
+    "publication_year": 1813
+  },
+  {
+    "id": 88,
+    "title": "Emma",
+    "author": "Jane Austen",
+    "genre": "Romance",
+    "summary": "A young woman plays matchmaker in her social circle.",
+    "publication_year": 1815
+  },
+  {
+    "id": 89,
+    "title": "Sense and Sensibility",
+    "author": "Jane Austen",
+    "genre": "Romance",
+    "summary": "Two sisters navigate love and heartbreak.",
+    "publication_year": 1811
+  },
+  {
+    "id": 90,
+    "title": "Dr. Jekyll and Mr. Hyde",
+    "author": "Robert Louis Stevenson",
+    "genre": "Horror",
+    "summary": "A scientist struggles with his dark alter ego.",
+    "publication_year": 1886
+  },
+  {
+    "id": 91,
+    "title": "The Call of the Wild",
+    "author": "Jack London",
+    "genre": "Adventure",
+    "summary": "A sled dog’s journey to his primal nature.",
+    "publication_year": 1903
+  },
+  {
+    "id": 92,
+    "title": "White Fang",
+    "author": "Jack London",
+    "genre": "Adventure",
+    "summary": "A wolf-dog’s struggle between civilization and the wild.",
+    "publication_year": 1906
+  },
+  {
+    "id": 93,
+    "title": "Echoes of the Forgotten",
+    "author": "Haruki Murakami",
+    "genre": "Magical Realism",
+    "summary": "A surreal journey through memory and time.",
+    "publication_year": 2018
+  },
+  {
+    "id": 94,
+    "title": "The Hidden Script",
+    "author": "Dan Brown",
+    "genre": "Thriller",
+    "summary": "A professor deciphers an ancient conspiracy.",
+    "publication_year": 2020
+  },
+  {
+    "id": 95,
+    "title": "Shadows of the Horizon",
+    "author": "Khaled Hosseini",
+    "genre": "Historical Fiction",
+    "summary": "A tale of loss and redemption across generations.",
+    "publication_year": 2015
+  },
+  {
+    "id": 96,
+    "title": "The Cipher Key",
+    "author": "Dan Brown",
+    "genre": "Mystery",
+    "summary": "A cryptologist races to stop a digital disaster.",
+    "publication_year": 2022
+  },
+  {
+    "id": 97,
+    "title": "When the Sky Falls",
+    "author": "Emily St. John Mandel",
+    "genre": "Science Fiction",
+    "summary": "A world unravels as reality bends.",
+    "publication_year": 2021
+  },
+  {
+    "id": 98,
+    "title": "A River of Secrets",
+    "author": "Paulo Coelho",
+    "genre": "Philosophical Fiction",
+    "summary": "A man’s journey to uncover hidden wisdom.",
+    "publication_year": 2019
+  },
+  {
+    "id": 99,
+    "title": "The Silent Watcher",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "summary": "A cursed town haunted by an unseen force.",
+    "publication_year": 2017
+  },
+  {
+    "id": 100,
+    "title": "The Whispering Stones",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "summary": "An ancient power buried beneath the mountains.",
+    "publication_year": 2023
+  },
+  {
+    "id": 101,
+    "title": "Falling Leaves",
+    "author": "Lisa See",
+    "genre": "Historical Fiction",
+    "summary": "A family torn apart by war and tradition.",
+    "publication_year": 2016
+  },
+  {
+    "id": 102,
+    "title": "The Labyrinth Code",
+    "author": "Umberto Eco",
+    "genre": "Historical Thriller",
+    "summary": "A scholar uncovers a medieval mystery.",
+    "publication_year": 2014
+  },
+  {
+    "id": 103,
+    "title": "Distant Echoes",
+    "author": "Alice Walker",
+    "genre": "Literary Fiction",
+    "summary": "A woman revisits her past through forgotten letters.",
+    "publication_year": 2011
+  },
+  {
+    "id": 104,
+    "title": "The Wandering Star",
+    "author": "Neil Gaiman",
+    "genre": "Fantasy",
+    "summary": "A lost star seeks its way home.",
+    "publication_year": 2019
+  },
+  {
+    "id": 105,
+    "title": "Echoes in the Wind",
+    "author": "Margaret Atwood",
+    "genre": "Dystopian Fiction",
+    "summary": "A resistance fights against an oppressive regime.",
+    "publication_year": 2020
+  },
+  {
+    "id": 106,
+    "title": "The Fractured Veil",
+    "author": "Brandon Sanderson",
+    "genre": "Fantasy",
+    "summary": "A warrior battles his past and future selves.",
+    "publication_year": 2021
+  },
+  {
+    "id": 107,
+    "title": "The Shadow Conspiracy",
+    "author": "Robert Ludlum",
+    "genre": "Spy Thriller",
+    "summary": "A former agent uncovers a global plot.",
+    "publication_year": 2015
+  },
+  {
+    "id": 108,
+    "title": "The Glass Kingdom",
+    "author": "Erin Morgenstern",
+    "genre": "Fantasy",
+    "summary": "A hidden kingdom only the worthy can see.",
+    "publication_year": 2019
+  },
+  {
+    "id": 109,
+    "title": "The Final Prophecy",
+    "author": "Rick Riordan",
+    "genre": "Mythology",
+    "summary": "A demigod must fulfill an ancient prophecy.",
+    "publication_year": 2022
+  },
+  {
+    "id": 110,
+    "title": "The Last Horizon",
+    "author": "Andy Weir",
+    "genre": "Science Fiction",
+    "summary": "A lone astronaut faces an impossible mission.",
+    "publication_year": 2023
+  },
+  {
+    "id": 111,
+    "title": "Beneath the Waves",
+    "author": "Clive Cussler",
+    "genre": "Adventure",
+    "summary": "A deep-sea explorer searches for a lost shipwreck.",
+    "publication_year": 2018
+  },
+  {
+    "id": 112,
+    "title": "Fading Embers",
+    "author": "Kristin Hannah",
+    "genre": "Historical Fiction",
+    "summary": "A woman fights for survival during wartime.",
+    "publication_year": 2016
+  },
+  {
+    "id": 113,
+    "title": "The Moonlit Pact",
+    "author": "Leigh Bardugo",
+    "genre": "Fantasy",
+    "summary": "A secret society bound by moonlight and magic.",
+    "publication_year": 2021
+  },
+  {
+    "id": 114,
+    "title": "Lost in Translation",
+    "author": "Nicole Mones",
+    "genre": "Romance",
+    "summary": "A translator finds love and mystery in China.",
+    "publication_year": 1999
+  },
+  {
+    "id": 115,
+    "title": "The Memory Weaver",
+    "author": "Lisa Wingate",
+    "genre": "Historical Fiction",
+    "summary": "A young woman unearths family secrets.",
+    "publication_year": 2014
+  },
+  {
+    "id": 116,
+    "title": "The Broken Compass",
+    "author": "David Baldacci",
+    "genre": "Thriller",
+    "summary": "An ex-detective follows a case that was never solved.",
+    "publication_year": 2020
+  },
+  {
+    "id": 117,
+    "title": "Echoes from the Abyss",
+    "author": "Frank Herbert",
+    "genre": "Science Fiction",
+    "summary": "A journey into the unknown depths of the universe.",
+    "publication_year": 1983
+  },
+  {
+    "id": 118,
+    "title": "The Crimson Codex",
+    "author": "Matthew Reilly",
+    "genre": "Action Thriller",
+    "summary": "An elite team hunts for a deadly manuscript.",
+    "publication_year": 2017
+  },
+  {
+    "id": 119,
+    "title": "The Midnight Pact",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "summary": "A sinister deal with supernatural consequences.",
+    "publication_year": 2022
+  },
+  {
+    "id": 120,
+    "title": "The Starlit Trail",
+    "author": "Lisa Kleypas",
+    "genre": "Romance",
+    "summary": "A love story woven through the constellations.",
+    "publication_year": 2018
+  },
+  {
+    "id": 121,
+    "title": "The Silent Storm",
+    "author": "John Grisham",
+    "genre": "Legal Thriller",
+    "summary": "A lawyer takes on a case that could change everything.",
+    "publication_year": 2019
+  },
+  {
+    "id": 122,
+    "title": "Veil of Illusions",
+    "author": "Brandon Sanderson",
+    "genre": "Fantasy",
+    "summary": "A magician discovers the cost of true power.",
+    "publication_year": 2021
+  },
+  {
+    "id": 123,
+    "title": "The Forgotten Heir",
+    "author": "J.K. Rowling",
+    "genre": "Fantasy",
+    "summary": "A hidden royal must reclaim their throne.",
+    "publication_year": 2023
+  },
+  {
+    "id": 124,
+    "title": "The Poisoned Crown",
+    "author": "Ken Follett",
+    "genre": "Historical Fiction",
+    "summary": "A medieval kingdom struggles for power.",
+    "publication_year": 2016
+  },
+  {
+    "id": 125,
+    "title": "Secrets of the Atlas",
+    "author": "Dan Brown",
+    "genre": "Thriller",
+    "summary": "A cryptic map holds the key to an ancient mystery.",
+    "publication_year": 2018
+  },
+  {
+    "id": 126,
+    "title": "The Timeless Voyage",
+    "author": "Andy Weir",
+    "genre": "Science Fiction",
+    "summary": "A scientist is trapped in a time loop across galaxies.",
+    "publication_year": 2022
+  },
+  {
+    "id": 127,
+    "title": "The Enchanted Tapestry",
+    "author": "Erin Morgenstern",
+    "genre": "Fantasy",
+    "summary": "A weaver crafts a magical fabric that shapes fate.",
+    "publication_year": 2020
+  },
+  {
+    "id": 128,
+    "title": "The Vanishing Cipher",
+    "author": "Robert Ludlum",
+    "genre": "Spy Thriller",
+    "summary": "An agent tracks a code that disappears from records.",
+    "publication_year": 2017
+  },
+  {
+    "id": 129,
+    "title": "Shattered Skies",
+    "author": "Cixin Liu",
+    "genre": "Science Fiction",
+    "summary": "A future Earth faces an existential cosmic threat.",
+    "publication_year": 2021
+  },
+  {
+    "id": 130,
+    "title": "House of Shadows",
+    "author": "Margaret Atwood",
+    "genre": "Dystopian Fiction",
+    "summary": "A woman unravels the dark secrets of her past.",
+    "publication_year": 2019
+  },
+  {
+    "id": 131,
+    "title": "Rivers of Time",
+    "author": "Khaled Hosseini",
+    "genre": "Historical Fiction",
+    "summary": "Two families intertwine through generations of war and peace.",
+    "publication_year": 2015
+  },
+  {
+    "id": 132,
+    "title": "The Blood Pact",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "summary": "A group of friends make a deadly deal.",
+    "publication_year": 2018
+  },
+  {
+    "id": 133,
+    "title": "The Moonlit Masquerade",
+    "author": "Lisa Kleypas",
+    "genre": "Romance",
+    "summary": "A forbidden love blooms under the moonlight.",
+    "publication_year": 2020
+  },
+  {
+    "id": 134,
+    "title": "City of Echoes",
+    "author": "Neil Gaiman",
+    "genre": "Fantasy",
+    "summary": "A city whispers its secrets to those who listen.",
+    "publication_year": 2022
+  },
+  {
+    "id": 135,
+    "title": "A Flicker in the Dark",
+    "author": "Alice Feeney",
+    "genre": "Thriller",
+    "summary": "A woman uncovers chilling truths about her past.",
+    "publication_year": 2021
+  },
+  {
+    "id": 136,
+    "title": "The Silver Enigma",
+    "author": "Umberto Eco",
+    "genre": "Historical Mystery",
+    "summary": "An ancient artifact reveals a dangerous secret.",
+    "publication_year": 2016
+  },
+  {
+    "id": 137,
+    "title": "Beyond the Stars",
+    "author": "Isaac Asimov",
+    "genre": "Science Fiction",
+    "summary": "Humanity ventures into the uncharted universe.",
+    "publication_year": 1985
+  },
+  {
+    "id": 138,
+    "title": "The Emperor’s Puzzle",
+    "author": "Matthew Reilly",
+    "genre": "Adventure",
+    "summary": "A race to solve an ancient emperor’s deadly riddle.",
+    "publication_year": 2019
+  },
+  {
+    "id": 139,
+    "title": "Echoes of the Past",
+    "author": "Kristin Hannah",
+    "genre": "Historical Fiction",
+    "summary": "A forgotten love resurfaces after decades.",
+    "publication_year": 2018
+  },
+  {
+    "id": 140,
+    "title": "Whispers from the Abyss",
+    "author": "H.P. Lovecraft",
+    "genre": "Horror",
+    "summary": "An ancient horror awakens beneath the ocean.",
+    "publication_year": 1927
+  },
+  {
+    "id": 141,
+    "title": "The Crimson Legacy",
+    "author": "Clive Cussler",
+    "genre": "Adventure",
+    "summary": "An explorer uncovers a deadly secret hidden for centuries.",
+    "publication_year": 2017
+  },
+  {
+    "id": 142,
+    "title": "Beneath the Frozen Tundra",
+    "author": "James Rollins",
+    "genre": "Thriller",
+    "summary": "A research team vanishes in the Arctic, leaving behind a chilling mystery.",
+    "publication_year": 2020
+  },
+  {
+    "id": 143,
+    "title": "The Shadow of Olympus",
+    "author": "Madeline Miller",
+    "genre": "Historical Fiction",
+    "summary": "A young hero embarks on a perilous journey to reclaim his destiny.",
+    "publication_year": 2018
+  },
+  {
+    "id": 144,
+    "title": "Labyrinth of Lies",
+    "author": "Dan Brown",
+    "genre": "Mystery",
+    "summary": "A professor races to decode a cryptic manuscript before time runs out.",
+    "publication_year": 2021
+  },
+  {
+    "id": 145,
+    "title": "The Last Dawn",
+    "author": "John Grisham",
+    "genre": "Legal Thriller",
+    "summary": "A lawyer takes on the most dangerous case of his career.",
+    "publication_year": 2019
+  },
+  {
+    "id": 146,
+    "title": "Echoes in the Wind",
+    "author": "Nicholas Sparks",
+    "genre": "Romance",
+    "summary": "A long-lost letter rekindles a love thought to be forgotten.",
+    "publication_year": 2017
+  },
+  {
+    "id": 147,
+    "title": "The Celestial Prophecy",
+    "author": "Rick Riordan",
+    "genre": "Fantasy",
+    "summary": "A teenager discovers he is part of an ancient cosmic prophecy.",
+    "publication_year": 2022
+  },
+  {
+    "id": 148,
+    "title": "The Phantom’s Curse",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "summary": "A haunted opera house holds a deadly secret.",
+    "publication_year": 2016
+  },
+  {
+    "id": 149,
+    "title": "The Clockmaker’s Secret",
+    "author": "Kate Morton",
+    "genre": "Historical Mystery",
+    "summary": "An antique clock leads a historian to uncover a century-old mystery.",
+    "publication_year": 2015
+  },
+  {
+    "id": 150,
+    "title": "Into the Deep Abyss",
+    "author": "Michael Crichton",
+    "genre": "Science Fiction",
+    "summary": "An expedition discovers lifeforms unlike anything seen before.",
+    "publication_year": 2018
+  },
+  {
+    "id": 151,
+    "title": "The Golden Serpent",
+    "author": "Wilbur Smith",
+    "genre": "Adventure",
+    "summary": "A lost civilization hides a treasure that many seek.",
+    "publication_year": 2019
+  },
+  {
+    "id": 152,
+    "title": "The Forsaken City",
+    "author": "Brandon Sanderson",
+    "genre": "Fantasy",
+    "summary": "An abandoned city reveals secrets that change history.",
+    "publication_year": 2020
+  },
+  {
+    "id": 153,
+    "title": "The Relic Hunter",
+    "author": "Douglas Preston & Lincoln Child",
+    "genre": "Thriller",
+    "summary": "A detective follows a trail of stolen artifacts across the world.",
+    "publication_year": 2017
+  },
+  {
+    "id": 154,
+    "title": "The Siren’s Song",
+    "author": "Margaret Atwood",
+    "genre": "Dystopian Fiction",
+    "summary": "In a world without music, one woman dares to sing.",
+    "publication_year": 2021
+  },
+  {
+    "id": 155,
+    "title": "The Icebound Fortress",
+    "author": "George R.R. Martin",
+    "genre": "Fantasy",
+    "summary": "A warrior embarks on a journey to an ancient, frozen castle.",
+    "publication_year": 2018
+  },
+  {
+    "id": 156,
+    "title": "The Vanishing Island",
+    "author": "Jules Verne",
+    "genre": "Adventure",
+    "summary": "An island appears and disappears mysteriously in the ocean.",
+    "publication_year": 1885
+  },
+  {
+    "id": 157,
+    "title": "The Curse of the Emerald Dagger",
+    "author": "Kelley Armstrong",
+    "genre": "Mystery",
+    "summary": "A cursed artifact drives those who possess it to madness.",
+    "publication_year": 2019
+  },
+  {
+    "id": 158,
+    "title": "The Architect’s Gamble",
+    "author": "Ken Follett",
+    "genre": "Historical Fiction",
+    "summary": "A young architect risks everything for his masterpiece.",
+    "publication_year": 2016
+  },
+  {
+    "id": 159,
+    "title": "The Silent Observer",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "summary": "A detective unravels a case through the eyes of an unseen witness.",
+    "publication_year": 1971
+  },
+  {
+    "id": 160,
+    "title": "Beyond the Horizon",
+    "author": "Colleen Hoover",
+    "genre": "Romance",
+    "summary": "Two lost souls find love in the most unexpected place.",
+    "publication_year": 2022
+  },
+  {
+    "id": 161,
+    "title": "The Enigma Code",
+    "author": "Robert Harris",
+    "genre": "Historical Thriller",
+    "summary": "A cryptographer races to crack an unbreakable Nazi code.",
+    "publication_year": 2018
+  },
+  {
+    "id": 162,
+    "title": "The Forgotten Heir",
+    "author": "Philippa Gregory",
+    "genre": "Historical Fiction",
+    "summary": "A lost heir resurfaces, threatening the monarchy's stability.",
+    "publication_year": 2019
+  },
+  {
+    "id": 163,
+    "title": "The Assassin’s Game",
+    "author": "David Baldacci",
+    "genre": "Thriller",
+    "summary": "A retired assassin is forced into one final deadly mission.",
+    "publication_year": 2021
+  },
+  {
+    "id": 164,
+    "title": "The Starlit Sea",
+    "author": "Laini Taylor",
+    "genre": "Fantasy",
+    "summary": "A girl discovers a portal to a forgotten underwater kingdom.",
+    "publication_year": 2022
+  },
+  {
+    "id": 165,
+    "title": "Echoes of the Ancients",
+    "author": "James Rollins",
+    "genre": "Adventure",
+    "summary": "An archeologist unearths a relic that could rewrite history.",
+    "publication_year": 2020
+  },
+  {
+    "id": 166,
+    "title": "The Unfinished Manuscript",
+    "author": "Kate Morton",
+    "genre": "Mystery",
+    "summary": "A missing writer's last manuscript reveals shocking secrets.",
+    "publication_year": 2017
+  },
+  {
+    "id": 167,
+    "title": "The Midnight Pact",
+    "author": "V.E. Schwab",
+    "genre": "Fantasy",
+    "summary": "A secret society recruits the gifted for an ancient mission.",
+    "publication_year": 2021
+  },
+  {
+    "id": 168,
+    "title": "Beneath the Ashes",
+    "author": "Gillian Flynn",
+    "genre": "Psychological Thriller",
+    "summary": "A woman’s past comes back to haunt her in unexpected ways.",
+    "publication_year": 2019
+  },
+  {
+    "id": 169,
+    "title": "The Raven’s Warning",
+    "author": "Anthony Horowitz",
+    "genre": "Mystery",
+    "summary": "A cryptic message from a raven leads to a deadly treasure hunt.",
+    "publication_year": 2022
+  },
+  {
+    "id": 170,
+    "title": "The Silver Compass",
+    "author": "Nicholas Sparks",
+    "genre": "Romance",
+    "summary": "A long-lost compass guides two strangers to their destiny.",
+    "publication_year": 2018
+  },
+  {
+    "id": 171,
+    "title": "Shadows of the Lost Kingdom",
+    "author": "Brandon Sanderson",
+    "genre": "Fantasy",
+    "summary": "A forgotten kingdom rises again with a vengeance.",
+    "publication_year": 2020
+  },
+  {
+    "id": 172,
+    "title": "The Vanished Prince",
+    "author": "Ken Follett",
+    "genre": "Historical Fiction",
+    "summary": "A prince disappears, leading to a deadly game of thrones.",
+    "publication_year": 2016
+  },
+  {
+    "id": 173,
+    "title": "The Celestial Gateway",
+    "author": "Rick Riordan",
+    "genre": "Fantasy",
+    "summary": "A teenager discovers an ancient portal to another world.",
+    "publication_year": 2021
+  },
+  {
+    "id": 174,
+    "title": "The Arctic Labyrinth",
+    "author": "Michael Crichton",
+    "genre": "Science Fiction",
+    "summary": "A research team uncovers an unknown species under the ice.",
+    "publication_year": 2018
+  },
+  {
+    "id": 175,
+    "title": "The Infernal Bargain",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "summary": "A man makes a deal with the devil, but the price is high.",
+    "publication_year": 2017
+  },
+  {
+    "id": 176,
+    "title": "The Lost Map",
+    "author": "Wilbur Smith",
+    "genre": "Adventure",
+    "summary": "A map to a forgotten civilization leads to great danger.",
+    "publication_year": 2019
+  },
+  {
+    "id": 177,
+    "title": "The Time Thief",
+    "author": "H.G. Wells",
+    "genre": "Science Fiction",
+    "summary": "A scientist discovers a way to steal moments from time.",
+    "publication_year": 1899
+  },
+  {
+    "id": 178,
+    "title": "The Desert Mirage",
+    "author": "Clive Cussler",
+    "genre": "Adventure",
+    "summary": "A mirage in the desert holds the key to an ancient mystery.",
+    "publication_year": 2020
+  },
+  {
+    "id": 179,
+    "title": "The Phantom’s Return",
+    "author": "Gaston Leroux",
+    "genre": "Gothic Fiction",
+    "summary": "The Phantom of the Opera returns for a final act.",
+    "publication_year": 1915
+  },
+  {
+    "id": 180,
+    "title": "The Moonlit Garden",
+    "author": "Lucinda Riley",
+    "genre": "Historical Romance",
+    "summary": "A mysterious melody leads a woman to uncover her family's past.",
+    "publication_year": 2016
+  },
+  {
+    "id": 181,
+    "title": "The Crimson Tide",
+    "author": "Dan Brown",
+    "genre": "Thriller",
+    "summary": "A secret society seeks a lost artifact with world-altering power.",
+    "publication_year": 2019
+  },
+  {
+    "id": 182,
+    "title": "The Whispering Trees",
+    "author": "Neil Gaiman",
+    "genre": "Fantasy",
+    "summary": "A young boy hears voices from trees, revealing an ancient secret.",
+    "publication_year": 2020
+  },
+  {
+    "id": 183,
+    "title": "The Icebound Prophecy",
+    "author": "George R.R. Martin",
+    "genre": "Fantasy",
+    "summary": "A prophecy buried in ice threatens the fate of a kingdom.",
+    "publication_year": 2021
+  },
+  {
+    "id": 184,
+    "title": "The Eternal Watcher",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "summary": "A man discovers he is being watched by something beyond time.",
+    "publication_year": 2017
+  },
+  {
+    "id": 185,
+    "title": "The Shadow Syndicate",
+    "author": "John Grisham",
+    "genre": "Legal Thriller",
+    "summary": "A lawyer uncovers a conspiracy that shakes the justice system.",
+    "publication_year": 2018
+  },
+  {
+    "id": 186,
+    "title": "The Ocean’s Secret",
+    "author": "Clive Cussler",
+    "genre": "Adventure",
+    "summary": "A deep-sea diver stumbles upon a centuries-old mystery.",
+    "publication_year": 2020
+  },
+  {
+    "id": 187,
+    "title": "The Timekeeper’s Curse",
+    "author": "H.G. Wells",
+    "genre": "Science Fiction",
+    "summary": "A scientist’s invention goes wrong, trapping him in time loops.",
+    "publication_year": 1903
+  },
+  {
+    "id": 188,
+    "title": "The Silver Phoenix",
+    "author": "Laini Taylor",
+    "genre": "Fantasy",
+    "summary": "A warrior seeks a mythical bird to save her kingdom.",
+    "publication_year": 2022
+  },
+  {
+    "id": 189,
+    "title": "The Last Guardian",
+    "author": "Rick Riordan",
+    "genre": "Fantasy",
+    "summary": "A teenager discovers he is the last protector of a lost realm.",
+    "publication_year": 2021
+  },
+  {
+    "id": 190,
+    "title": "The Forbidden Tome",
+    "author": "Brandon Sanderson",
+    "genre": "Fantasy",
+    "summary": "A forbidden book contains knowledge that can reshape reality.",
+    "publication_year": 2019
+  },
+  {
+    "id": 191,
+    "title": "The Lost Expedition",
+    "author": "James Rollins",
+    "genre": "Adventure",
+    "summary": "A lost expedition holds the key to an ancient civilization.",
+    "publication_year": 2020
+  },
+  {
+    "id": 192,
+    "title": "The Celestial Code",
+    "author": "Dan Brown",
+    "genre": "Thriller",
+    "summary": "An encrypted message leads to a shocking astronomical discovery.",
+    "publication_year": 2018
+  },
+  {
+    "id": 193,
+    "title": "The Phantom’s Grasp",
+    "author": "Gaston Leroux",
+    "genre": "Gothic Fiction",
+    "summary": "A masked figure haunts an opera house with unfinished business.",
+    "publication_year": 1916
+  },
+  {
+    "id": 194,
+    "title": "The Inferno Code",
+    "author": "Michael Crichton",
+    "genre": "Science Fiction",
+    "summary": "A scientist deciphers an ancient code hidden in volcanic rocks.",
+    "publication_year": 2017
+  },
+  {
+    "id": 195,
+    "title": "The Diamond Conspiracy",
+    "author": "Wilbur Smith",
+    "genre": "Adventure",
+    "summary": "A rare diamond leads to a global power struggle.",
+    "publication_year": 2019
+  },
+  {
+    "id": 196,
+    "title": "The Obsidian Mirror",
+    "author": "Kate Morton",
+    "genre": "Mystery",
+    "summary": "A woman discovers a mirror that reflects the past and future.",
+    "publication_year": 2016
+  },
+  {
+    "id": 197,
+    "title": "The Forgotten Oracle",
+    "author": "Philippa Gregory",
+    "genre": "Historical Fiction",
+    "summary": "A lost oracle’s prophecy changes the course of history.",
+    "publication_year": 2019
+  },
+  {
+    "id": 198,
+    "title": "The Arctic Enigma",
+    "author": "Anthony Horowitz",
+    "genre": "Mystery",
+    "summary": "A missing explorer leaves behind clues to a shocking truth.",
+    "publication_year": 2022
+  },
+  {
+    "id": 199,
+    "title": "The Raven’s Curse",
+    "author": "Gillian Flynn",
+    "genre": "Psychological Thriller",
+    "summary": "A woman’s past comes back to haunt her in a deadly way.",
+    "publication_year": 2019
+  },
+  {
+    "id": 200,
+    "title": "The Celestial Atlas",
+    "author": "Nicholas Sparks",
+    "genre": "Romance",
+    "summary": "Two astronomers fall in love while mapping the stars.",
+    "publication_year": 2018
+  },
+  {
+    "id": 201,
+    "title": "The Vanishing Key",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "summary": "A detective investigates a missing key linked to a murder.",
+    "publication_year": 1935
+  },
+  {
+    "id": 202,
+    "title": "The Shattered Throne",
+    "author": "Sarah J. Maas",
+    "genre": "Fantasy",
+    "summary": "A princess must reclaim her kingdom from a tyrant.",
+    "publication_year": 2021
+  },
+  {
+    "id": 203,
+    "title": "The Cursed Manuscript",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "summary": "A writer discovers a manuscript that brings nightmares to life.",
+    "publication_year": 2018
+  },
+  {
+    "id": 204,
+    "title": "The Frozen Heir",
+    "author": "George R.R. Martin",
+    "genre": "Fantasy",
+    "summary": "An exiled prince must survive in a frozen wasteland to reclaim his throne.",
+    "publication_year": 2020
+  },
+  {
+    "id": 205,
+    "title": "The Enigma Device",
+    "author": "Dan Brown",
+    "genre": "Thriller",
+    "summary": "A cryptographer races to unlock a device that could change history.",
+    "publication_year": 2019
+  },
+  {
+    "id": 206,
+    "title": "The Crimson Letter",
+    "author": "John Grisham",
+    "genre": "Legal Thriller",
+    "summary": "A lawyer stumbles upon a letter that could change a murder trial.",
+    "publication_year": 2017
+  },
+  {
+    "id": 207,
+    "title": "The Stormcaller",
+    "author": "Brandon Sanderson",
+    "genre": "Fantasy",
+    "summary": "A warrior gains the power to control storms but at a cost.",
+    "publication_year": 2022
+  },
+  {
+    "id": 208,
+    "title": "The Shadowed Path",
+    "author": "Neil Gaiman",
+    "genre": "Fantasy",
+    "summary": "A boy embarks on a journey through a world of forgotten myths.",
+    "publication_year": 2020
+  },
+  {
+    "id": 209,
+    "title": "The Jade Compass",
+    "author": "James Rollins",
+    "genre": "Adventure",
+    "summary": "An archaeologist hunts for an ancient compass with mystical powers.",
+    "publication_year": 2018
+  },
+  {
+    "id": 210,
+    "title": "The Dark Tapestry",
+    "author": "H.P. Lovecraft",
+    "genre": "Horror",
+    "summary": "A researcher unravels a sinister mystery hidden within a tapestry.",
+    "publication_year": 1934
+  },
+  {
+    "id": 211,
+    "title": "The Phoenix’s Ashes",
+    "author": "Rick Riordan",
+    "genre": "Fantasy",
+    "summary": "A teenager must awaken a mythical phoenix to save the world.",
+    "publication_year": 2021
+  },
+  {
+    "id": 212,
+    "title": "The Obsidian Tower",
+    "author": "Laini Taylor",
+    "genre": "Fantasy",
+    "summary": "A young mage discovers the dark secret of an ancient tower.",
+    "publication_year": 2020
+  },
+  {
+    "id": 213,
+    "title": "The Lunar Codex",
+    "author": "Michael Crichton",
+    "genre": "Science Fiction",
+    "summary": "A scientist uncovers a hidden alien message on the moon.",
+    "publication_year": 2019
+  },
+  {
+    "id": 214,
+    "title": "The Hidden Chamber",
+    "author": "Clive Cussler",
+    "genre": "Adventure",
+    "summary": "An underwater expedition leads to a long-lost chamber.",
+    "publication_year": 2017
+  },
+  {
+    "id": 215,
+    "title": "The Emperor’s Curse",
+    "author": "Philippa Gregory",
+    "genre": "Historical Fiction",
+    "summary": "A cursed crown brings chaos to an ancient empire.",
+    "publication_year": 2016
+  },
+  {
+    "id": 216,
+    "title": "The Starlit Bridge",
+    "author": "Nicholas Sparks",
+    "genre": "Romance",
+    "summary": "Two lovers reunite under a bridge that holds their memories.",
+    "publication_year": 2018
+  },
+  {
+    "id": 217,
+    "title": "The Sapphire Veil",
+    "author": "Gillian Flynn",
+    "genre": "Psychological Thriller",
+    "summary": "A woman discovers a secret identity hidden within herself.",
+    "publication_year": 2019
+  },
+  {
+    "id": 218,
+    "title": "The Glass Illusion",
+    "author": "Kate Morton",
+    "genre": "Mystery",
+    "summary": "A journalist investigates an illusionist’s disappearance.",
+    "publication_year": 2020
+  },
+  {
+    "id": 219,
+    "title": "The Arctic Vault",
+    "author": "Wilbur Smith",
+    "genre": "Adventure",
+    "summary": "A vault in the Arctic holds secrets that could change the world.",
+    "publication_year": 2019
+  },
+  {
+    "id": 220,
+    "title": "The Forgotten Heist",
+    "author": "Anthony Horowitz",
+    "genre": "Mystery",
+    "summary": "A detective uncovers a decades-old unsolved robbery.",
+    "publication_year": 2022
+  },
+  {
+    "id": 221,
+    "title": "The Lost Relic",
+    "author": "Dan Brown",
+    "genre": "Thriller",
+    "summary": "A professor races to uncover a relic tied to an ancient secret society.",
+    "publication_year": 2020
+  },
+  {
+    "id": 222,
+    "title": "The Silver Curse",
+    "author": "Rick Riordan",
+    "genre": "Fantasy",
+    "summary": "A young hero must break a silver curse before it's too late.",
+    "publication_year": 2021
+  },
+  {
+    "id": 223,
+    "title": "The Ivory Labyrinth",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "summary": "A detective unravels a mystery hidden in an ancient labyrinth.",
+    "publication_year": 1936
+  },
+  {
+    "id": 224,
+    "title": "The Fire Prophecy",
+    "author": "Sarah J. Maas",
+    "genre": "Fantasy",
+    "summary": "A prophecy foretells the rise of a fire-wielding warrior.",
+    "publication_year": 2019
+  },
+  {
+    "id": 225,
+    "title": "The Seventh Seal",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "summary": "A small town faces terror as an ancient seal is broken.",
+    "publication_year": 2018
+  },
+  {
+    "id": 226,
+    "title": "The Celestial Map",
+    "author": "James Rollins",
+    "genre": "Adventure",
+    "summary": "An explorer follows an ancient map leading to lost civilizations.",
+    "publication_year": 2020
+  },
+  {
+    "id": 227,
+    "title": "The Moonlit Pact",
+    "author": "Neil Gaiman",
+    "genre": "Fantasy",
+    "summary": "A secret pact made under the moonlight has unexpected consequences.",
+    "publication_year": 2021
+  },
+  {
+    "id": 228,
+    "title": "The Phantom Hourglass",
+    "author": "Brandon Sanderson",
+    "genre": "Fantasy",
+    "summary": "A mystical hourglass holds the power to alter time.",
+    "publication_year": 2022
+  },
+  {
+    "id": 229,
+    "title": "The Scarlet Mirage",
+    "author": "John Grisham",
+    "genre": "Legal Thriller",
+    "summary": "A lawyer fights to uncover the truth behind a corporate scandal.",
+    "publication_year": 2017
+  },
+  {
+    "id": 230,
+    "title": "The Whispering Woods",
+    "author": "Kate Morton",
+    "genre": "Mystery",
+    "summary": "A haunted forest hides a dark past waiting to be uncovered.",
+    "publication_year": 2020
+  },
+  {
+    "id": 231,
+    "title": "The Ashen Crown",
+    "author": "George R.R. Martin",
+    "genre": "Fantasy",
+    "summary": "A war erupts over a cursed crown with unimaginable power.",
+    "publication_year": 2021
+  },
+  {
+    "id": 232,
+    "title": "The Eclipsed Kingdom",
+    "author": "Laini Taylor",
+    "genre": "Fantasy",
+    "summary": "A forgotten kingdom emerges from the shadows.",
+    "publication_year": 2020
+  },
+  {
+    "id": 233,
+    "title": "The Frozen Labyrinth",
+    "author": "Michael Crichton",
+    "genre": "Science Fiction",
+    "summary": "A scientist discovers a hidden labyrinth beneath Antarctica.",
+    "publication_year": 2019
+  },
+  {
+    "id": 234,
+    "title": "The Jade Serpent",
+    "author": "Clive Cussler",
+    "genre": "Adventure",
+    "summary": "An expedition searches for a lost jade artifact in the Amazon.",
+    "publication_year": 2018
+  },
+  {
+    "id": 235,
+    "title": "The Ghost Ledger",
+    "author": "Philippa Gregory",
+    "genre": "Historical Fiction",
+    "summary": "An old ledger holds the key to solving a centuries-old mystery.",
+    "publication_year": 2016
+  },
+  {
+    "id": 236,
+    "title": "The Rose Veil",
+    "author": "Nicholas Sparks",
+    "genre": "Romance",
+    "summary": "A love story unfolds behind a mysterious veil of secrets.",
+    "publication_year": 2019
+  },
+  {
+    "id": 237,
+    "title": "The Black Hourglass",
+    "author": "Gillian Flynn",
+    "genre": "Psychological Thriller",
+    "summary": "A woman finds an hourglass that predicts moments of death.",
+    "publication_year": 2021
+  },
+  {
+    "id": 238,
+    "title": "The Stolen Echo",
+    "author": "Kate Morton",
+    "genre": "Mystery",
+    "summary": "A girl hears echoes of a past she never lived.",
+    "publication_year": 2020
+  },
+  {
+    "id": 239,
+    "title": "The Arctic Conspiracy",
+    "author": "Wilbur Smith",
+    "genre": "Adventure",
+    "summary": "A team uncovers a conspiracy hidden beneath the Arctic ice.",
+    "publication_year": 2019
+  },
+  {
+    "id": 240,
+    "title": "The Forgotten Chamber",
+    "author": "Anthony Horowitz",
+    "genre": "Mystery",
+    "summary": "A hidden chamber holds the key to an ancient enigma.",
+    "publication_year": 2022
+  },
+  {
+    "id": 241,
+    "title": "The Enchanted Quill",
+    "author": "J.K. Rowling",
+    "genre": "Fantasy",
+    "summary": "A magical quill grants its writer extraordinary powers.",
+    "publication_year": 2020
+  },
+  {
+    "id": 242,
+    "title": "The Cursed Tapestry",
+    "author": "Neil Gaiman",
+    "genre": "Fantasy",
+    "summary": "A weaver unknowingly crafts a tapestry that alters reality.",
+    "publication_year": 2021
+  },
+  {
+    "id": 243,
+    "title": "The Crimson Tide",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "summary": "A coastal town is haunted by a deadly tide of blood.",
+    "publication_year": 2019
+  },
+  {
+    "id": 244,
+    "title": "The Forgotten Relic",
+    "author": "Dan Brown",
+    "genre": "Thriller",
+    "summary": "A historian unearths a relic tied to an ancient prophecy.",
+    "publication_year": 2022
+  },
+  {
+    "id": 245,
+    "title": "The Celestial Garden",
+    "author": "Sarah J. Maas",
+    "genre": "Fantasy",
+    "summary": "A hidden garden in the heavens holds the secret to immortality.",
+    "publication_year": 2020
+  },
+  {
+    "id": 246,
+    "title": "The Shadow Contract",
+    "author": "John Grisham",
+    "genre": "Legal Thriller",
+    "summary": "A lawyer discovers a contract that could destroy a powerful firm.",
+    "publication_year": 2018
+  },
+  {
+    "id": 247,
+    "title": "The Phantom Signal",
+    "author": "Michael Crichton",
+    "genre": "Science Fiction",
+    "summary": "A scientist intercepts a signal from deep space with eerie consequences.",
+    "publication_year": 2021
+  },
+  {
+    "id": 248,
+    "title": "The Silver Masquerade",
+    "author": "Kate Morton",
+    "genre": "Mystery",
+    "summary": "A secret masquerade ball leads to a shocking revelation.",
+    "publication_year": 2019
+  },
+  {
+    "id": 249,
+    "title": "The Whispering Tomb",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "summary": "A detective follows whispers leading to an unmarked tomb.",
+    "publication_year": 1937
+  },
+  {
+    "id": 250,
+    "title": "The Midnight Storm",
+    "author": "Nicholas Sparks",
+    "genre": "Romance",
+    "summary": "A stormy night rekindles an old flame between two lovers.",
+    "publication_year": 2020
+  },
+  {
+    "id": 251,
+    "title": "The Ember Code",
+    "author": "Brandon Sanderson",
+    "genre": "Fantasy",
+    "summary": "A secret code hidden in embers reveals an ancient mystery.",
+    "publication_year": 2021
+  },
+  {
+    "id": 252,
+    "title": "The Jade Compass",
+    "author": "Clive Cussler",
+    "genre": "Adventure",
+    "summary": "A lost compass leads to a hidden civilization.",
+    "publication_year": 2018
+  },
+  {
+    "id": 253,
+    "title": "The Winter Curse",
+    "author": "Laini Taylor",
+    "genre": "Fantasy",
+    "summary": "A town is cursed to endure an eternal winter.",
+    "publication_year": 2019
+  },
+  {
+    "id": 254,
+    "title": "The Final Cipher",
+    "author": "James Rollins",
+    "genre": "Thriller",
+    "summary": "A cryptologist deciphers a code leading to a deadly secret.",
+    "publication_year": 2021
+  },
+  {
+    "id": 255,
+    "title": "The Hollow Throne",
+    "author": "George R.R. Martin",
+    "genre": "Fantasy",
+    "summary": "A power struggle unfolds over an abandoned throne.",
+    "publication_year": 2022
+  },
+  {
+    "id": 256,
+    "title": "The Glass Phoenix",
+    "author": "Rick Riordan",
+    "genre": "Fantasy",
+    "summary": "A mythical phoenix encased in glass holds the key to a prophecy.",
+    "publication_year": 2020
+  },
+  {
+    "id": 257,
+    "title": "The Velvet Dagger",
+    "author": "Philippa Gregory",
+    "genre": "Historical Fiction",
+    "summary": "A noblewoman seeks revenge with a dagger hidden in plain sight.",
+    "publication_year": 2017
+  },
+  {
+    "id": 258,
+    "title": "The Obsidian Heart",
+    "author": "Gillian Flynn",
+    "genre": "Psychological Thriller",
+    "summary": "A woman receives a mysterious heart-shaped obsidian that changes her fate.",
+    "publication_year": 2021
+  },
+  {
+    "id": 259,
+    "title": "The Hidden Lighthouse",
+    "author": "Wilbur Smith",
+    "genre": "Adventure",
+    "summary": "A lighthouse hides a secret that could change history.",
+    "publication_year": 2019
+  },
+  {
+    "id": 260,
+    "title": "The Lunar Mirage",
+    "author": "Anthony Horowitz",
+    "genre": "Mystery",
+    "summary": "A strange phenomenon on the moon leads to an unexpected mystery.",
+    "publication_year": 2022
+  },
+  {
+    "id": 261,
+    "title": "The Scarlet Illusion",
+    "author": "Harlan Coben",
+    "genre": "Thriller",
+    "summary": "A man wakes up to find his entire life was an illusion.",
+    "publication_year": 2021
+  },
+  {
+    "id": 262,
+    "title": "The Forgotten Manuscript",
+    "author": "Danielle Steel",
+    "genre": "Romance",
+    "summary": "A lost manuscript brings two hearts together.",
+    "publication_year": 2018
+  },
+  {
+    "id": 263,
+    "title": "The Ivory Labyrinth",
+    "author": "Robert Ludlum",
+    "genre": "Thriller",
+    "summary": "A spy navigates a labyrinth of deception and danger.",
+    "publication_year": 2020
+  },
+  {
+    "id": 264,
+    "title": "The Sapphire Serpent",
+    "author": "Wilbur Smith",
+    "genre": "Adventure",
+    "summary": "A mythical serpent is the key to a hidden treasure.",
+    "publication_year": 2019
+  },
+  {
+    "id": 265,
+    "title": "The Frozen Enigma",
+    "author": "Michael Connelly",
+    "genre": "Mystery",
+    "summary": "An ancient enigma buried under ice holds deadly secrets.",
+    "publication_year": 2021
+  },
+  {
+    "id": 266,
+    "title": "The Amber Cathedral",
+    "author": "Ken Follett",
+    "genre": "Historical Fiction",
+    "summary": "A cathedral built of amber holds a shocking past.",
+    "publication_year": 2017
+  },
+  {
+    "id": 267,
+    "title": "The Shadowed Hourglass",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "summary": "An hourglass counts down to a terrifying event.",
+    "publication_year": 2020
+  },
+  {
+    "id": 268,
+    "title": "The Whispering Key",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "summary": "A key unlocks more than just doors—it whispers secrets.",
+    "publication_year": 1946
+  },
+  {
+    "id": 269,
+    "title": "The Rusted Crown",
+    "author": "George R.R. Martin",
+    "genre": "Fantasy",
+    "summary": "A forgotten kingdom fights for a rusted but powerful crown.",
+    "publication_year": 2022
+  },
+  {
+    "id": 270,
+    "title": "The Obsidian Mirror",
+    "author": "Rick Riordan",
+    "genre": "Fantasy",
+    "summary": "A mirror reveals a past that should have stayed hidden.",
+    "publication_year": 2019
+  },
+  {
+    "id": 271,
+    "title": "The Moonlit Covenant",
+    "author": "Kate Morton",
+    "genre": "Mystery",
+    "summary": "A secret covenant is signed under the full moon.",
+    "publication_year": 2018
+  },
+  {
+    "id": 272,
+    "title": "The Lost Echo",
+    "author": "Nicholas Sparks",
+    "genre": "Romance",
+    "summary": "A love story echoes through time, waiting to be heard.",
+    "publication_year": 2021
+  },
+  {
+    "id": 273,
+    "title": "The Twilight Gateway",
+    "author": "Brandon Sanderson",
+    "genre": "Fantasy",
+    "summary": "A hidden gateway opens only at twilight.",
+    "publication_year": 2022
+  },
+  {
+    "id": 274,
+    "title": "The Jade Testament",
+    "author": "Clive Cussler",
+    "genre": "Adventure",
+    "summary": "An ancient jade tablet reveals a prophecy.",
+    "publication_year": 2019
+  },
+  {
+    "id": 275,
+    "title": "The Eclipsed Throne",
+    "author": "Sarah J. Maas",
+    "genre": "Fantasy",
+    "summary": "A throne remains empty, waiting for the right ruler.",
+    "publication_year": 2021
+  },
+  {
+    "id": 276,
+    "title": "The Vanishing Glyph",
+    "author": "James Rollins",
+    "genre": "Thriller",
+    "summary": "A mysterious glyph vanishes before it can be deciphered.",
+    "publication_year": 2020
+  },
+  {
+    "id": 277,
+    "title": "The Silver Eclipse",
+    "author": "Anthony Horowitz",
+    "genre": "Mystery",
+    "summary": "A rare eclipse triggers a string of unexplained events.",
+    "publication_year": 2018
+  },
+  {
+    "id": 278,
+    "title": "The Crimson Ledger",
+    "author": "John Grisham",
+    "genre": "Legal Thriller",
+    "summary": "A lawyer discovers a ledger that could bring down a dynasty.",
+    "publication_year": 2019
+  },
+  {
+    "id": 279,
+    "title": "The Phantom Cartographer",
+    "author": "Michael Crichton",
+    "genre": "Science Fiction",
+    "summary": "A cartographer’s maps show lands that don’t exist.",
+    "publication_year": 2021
+  },
+  {
+    "id": 280,
+    "title": "The Lunar Veil",
+    "author": "Laini Taylor",
+    "genre": "Fantasy",
+    "summary": "A mystical veil shrouds the truth about the moon.",
+    "publication_year": 2022
+  },
+  {
+    "id": 281,
+    "title": "The Eternal Cipher",
+    "author": "Dan Brown",
+    "genre": "Thriller",
+    "summary": "A hidden cipher leads to a discovery that could change history.",
+    "publication_year": 2018
+  },
+  {
+    "id": 282,
+    "title": "The Midnight Paradox",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "summary": "A man wakes up at midnight to find his life has been rewritten.",
+    "publication_year": 2019
+  },
+  {
+    "id": 283,
+    "title": "The Sapphire Conspiracy",
+    "author": "David Baldacci",
+    "genre": "Mystery",
+    "summary": "A sapphire with a deadly secret sets off a global chase.",
+    "publication_year": 2020
+  },
+  {
+    "id": 284,
+    "title": "The Whispering Fog",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "summary": "A fog whispers the last words of a missing woman.",
+    "publication_year": 1947
+  },
+  {
+    "id": 285,
+    "title": "The Obsidian Pact",
+    "author": "George R.R. Martin",
+    "genre": "Fantasy",
+    "summary": "A secret pact binds kingdoms in an ancient feud.",
+    "publication_year": 2022
+  },
+  {
+    "id": 286,
+    "title": "The Clockmaker’s Prophecy",
+    "author": "Philip Pullman",
+    "genre": "Fantasy",
+    "summary": "A clockmaker’s final invention reveals the future.",
+    "publication_year": 2019
+  },
+  {
+    "id": 287,
+    "title": "The Crimson Hourglass",
+    "author": "James Patterson",
+    "genre": "Thriller",
+    "summary": "A mysterious hourglass counts down to an unknown event.",
+    "publication_year": 2021
+  },
+  {
+    "id": 288,
+    "title": "The Forgotten Sonnet",
+    "author": "Nicholas Sparks",
+    "genre": "Romance",
+    "summary": "A love poem lost in time is rediscovered.",
+    "publication_year": 2020
+  },
+  {
+    "id": 289,
+    "title": "The Jade Vault",
+    "author": "Ken Follett",
+    "genre": "Historical Fiction",
+    "summary": "A hidden vault holds secrets of a lost civilization.",
+    "publication_year": 2018
+  },
+  {
+    "id": 290,
+    "title": "The Phantom Violin",
+    "author": "Kate Morton",
+    "genre": "Mystery",
+    "summary": "A violin plays itself, revealing a tragic past.",
+    "publication_year": 2019
+  },
+  {
+    "id": 291,
+    "title": "The Shattered Prism",
+    "author": "Rick Riordan",
+    "genre": "Fantasy",
+    "summary": "A broken prism reveals a new world.",
+    "publication_year": 2021
+  },
+  {
+    "id": 292,
+    "title": "The Veiled Heir",
+    "author": "Sarah J. Maas",
+    "genre": "Fantasy",
+    "summary": "A royal heir hides their true identity to survive.",
+    "publication_year": 2022
+  },
+  {
+    "id": 293,
+    "title": "The Shadowed Tapestry",
+    "author": "Michael Connelly",
+    "genre": "Mystery",
+    "summary": "An ancient tapestry tells the story of a forgotten crime.",
+    "publication_year": 2020
+  },
+  {
+    "id": 294,
+    "title": "The Moonstone Legacy",
+    "author": "Anthony Horowitz",
+    "genre": "Mystery",
+    "summary": "A cursed moonstone leads to a series of bizarre events.",
+    "publication_year": 2019
+  },
+  {
+    "id": 295,
+    "title": "The Fractured Throne",
+    "author": "Brandon Sanderson",
+    "genre": "Fantasy",
+    "summary": "A kingdom in turmoil fights for a fractured throne.",
+    "publication_year": 2021
+  },
+  {
+    "id": 296,
+    "title": "The Frozen Letter",
+    "author": "John Grisham",
+    "genre": "Legal Thriller",
+    "summary": "A letter frozen in ice holds the key to a legal mystery.",
+    "publication_year": 2020
+  },
+  {
+    "id": 297,
+    "title": "The Silent Masquerade",
+    "author": "Wilbur Smith",
+    "genre": "Adventure",
+    "summary": "A masquerade ball hides a dangerous plot.",
+    "publication_year": 2018
+  },
+  {
+    "id": 298,
+    "title": "The Lost Hieroglyph",
+    "author": "Clive Cussler",
+    "genre": "Adventure",
+    "summary": "A missing hieroglyph could rewrite Egyptian history.",
+    "publication_year": 2019
+  },
+  {
+    "id": 299,
+    "title": "The Celestial Cipher",
+    "author": "James Rollins",
+    "genre": "Thriller",
+    "summary": "A hidden cipher in the stars holds an ancient message.",
+    "publication_year": 2021
+  },
+  {
+    "id": 300,
+    "title": "The Onyx Puzzle",
+    "author": "Michael Crichton",
+    "genre": "Science Fiction",
+    "summary": "An onyx artifact is the key to solving an interstellar mystery.",
+    "publication_year": 2022
+  },
+  {
+    "id": 301,
+    "title": "The Ember Code",
+    "author": "Dan Brown",
+    "genre": "Thriller",
+    "summary": "A hidden code in ancient texts reveals a deadly secret.",
+    "publication_year": 2021
+  },
+  {
+    "id": 302,
+    "title": "The Sapphire Veil",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "summary": "A mysterious veil hides terrifying secrets.",
+    "publication_year": 2020
+  },
+  {
+    "id": 303,
+    "title": "The Cursed Labyrinth",
+    "author": "David Baldacci",
+    "genre": "Mystery",
+    "summary": "An archaeologist discovers a labyrinth with a deadly curse.",
+    "publication_year": 2019
+  },
+  {
+    "id": 304,
+    "title": "The Silver Enigma",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "summary": "A silver locket holds the key to a century-old mystery.",
+    "publication_year": 1950
+  },
+  {
+    "id": 305,
+    "title": "The Obsidian Oath",
+    "author": "George R.R. Martin",
+    "genre": "Fantasy",
+    "summary": "A dark oath binds warriors in an epic battle.",
+    "publication_year": 2022
+  },
+  {
+    "id": 306,
+    "title": "The Alchemist’s Shadow",
+    "author": "Philip Pullman",
+    "genre": "Fantasy",
+    "summary": "An alchemist’s failed experiment brings unexpected consequences.",
+    "publication_year": 2018
+  },
+  {
+    "id": 307,
+    "title": "The Crimson Serpent",
+    "author": "James Patterson",
+    "genre": "Thriller",
+    "summary": "A dangerous organization uses a serpent symbol to communicate.",
+    "publication_year": 2021
+  },
+  {
+    "id": 308,
+    "title": "The Forgotten Melody",
+    "author": "Nicholas Sparks",
+    "genre": "Romance",
+    "summary": "A lost song rekindles an old romance.",
+    "publication_year": 2020
+  },
+  {
+    "id": 309,
+    "title": "The Jade Phoenix",
+    "author": "Ken Follett",
+    "genre": "Historical Fiction",
+    "summary": "A rare jade phoenix figurine holds secrets of the past.",
+    "publication_year": 2019
+  },
+  {
+    "id": 310,
+    "title": "The Phantom Library",
+    "author": "Kate Morton",
+    "genre": "Mystery",
+    "summary": "A hidden library appears only once every decade.",
+    "publication_year": 2020
+  },
+  {
+    "id": 311,
+    "title": "The Shattered Oracle",
+    "author": "Rick Riordan",
+    "genre": "Fantasy",
+    "summary": "An ancient oracle’s prophecy threatens the world.",
+    "publication_year": 2021
+  },
+  {
+    "id": 312,
+    "title": "The Veiled Sorcerer",
+    "author": "Sarah J. Maas",
+    "genre": "Fantasy",
+    "summary": "A masked sorcerer’s true identity shakes an empire.",
+    "publication_year": 2023
+  },
+  {
+    "id": 313,
+    "title": "The Shadowed Crown",
+    "author": "Michael Connelly",
+    "genre": "Mystery",
+    "summary": "A royal crown is stolen, leading to a conspiracy.",
+    "publication_year": 2020
+  },
+  {
+    "id": 314,
+    "title": "The Moonlight Cipher",
+    "author": "Anthony Horowitz",
+    "genre": "Mystery",
+    "summary": "A series of moonlit messages guide a detective’s search.",
+    "publication_year": 2019
+  },
+  {
+    "id": 315,
+    "title": "The Fractured Amulet",
+    "author": "Brandon Sanderson",
+    "genre": "Fantasy",
+    "summary": "A powerful amulet is broken, and chaos ensues.",
+    "publication_year": 2021
+  },
+  {
+    "id": 316,
+    "title": "The Frozen Manuscript",
+    "author": "John Grisham",
+    "genre": "Legal Thriller",
+    "summary": "A lost legal manuscript emerges from the ice.",
+    "publication_year": 2020
+  },
+  {
+    "id": 317,
+    "title": "The Silent Raven",
+    "author": "Wilbur Smith",
+    "genre": "Adventure",
+    "summary": "A rare raven follows a traveler across continents.",
+    "publication_year": 2018
+  },
+  {
+    "id": 318,
+    "title": "The Lost Atlantis",
+    "author": "Clive Cussler",
+    "genre": "Adventure",
+    "summary": "A team of explorers searches for the lost city of Atlantis.",
+    "publication_year": 2019
+  },
+  {
+    "id": 319,
+    "title": "The Celestial Clock",
+    "author": "James Rollins",
+    "genre": "Thriller",
+    "summary": "A secret society controls time using an ancient clock.",
+    "publication_year": 2021
+  },
+  {
+    "id": 320,
+    "title": "The Obsidian Puzzle",
+    "author": "Michael Crichton",
+    "genre": "Science Fiction",
+    "summary": "A scientist deciphers an alien puzzle hidden in obsidian.",
+    "publication_year": 2022
+  },
+  {
+    "id": 321,
+    "title": "The Enigma Prophecy",
+    "author": "Dan Brown",
+    "genre": "Thriller",
+    "summary": "A hidden prophecy reveals an ancient secret society.",
+    "publication_year": 2021
+  },
+  {
+    "id": 322,
+    "title": "The Haunted Echo",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "summary": "A mysterious sound in an old house terrifies its residents.",
+    "publication_year": 2020
+  },
+  {
+    "id": 323,
+    "title": "The Forbidden Archive",
+    "author": "David Baldacci",
+    "genre": "Mystery",
+    "summary": "A lost archive holds secrets that could change history.",
+    "publication_year": 2019
+  },
+  {
+    "id": 324,
+    "title": "The Sapphire Curse",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "summary": "A cursed sapphire ring brings misfortune to its owners.",
+    "publication_year": 1955
+  },
+  {
+    "id": 325,
+    "title": "The Mystic Pact",
+    "author": "George R.R. Martin",
+    "genre": "Fantasy",
+    "summary": "A secret pact between kings threatens an empire.",
+    "publication_year": 2022
+  },
+  {
+    "id": 326,
+    "title": "The Astral Key",
+    "author": "Philip Pullman",
+    "genre": "Fantasy",
+    "summary": "A young scholar finds a key to another dimension.",
+    "publication_year": 2018
+  },
+  {
+    "id": 327,
+    "title": "The Bloodstone Legacy",
+    "author": "James Patterson",
+    "genre": "Thriller",
+    "summary": "A legendary bloodstone holds the fate of a dynasty.",
+    "publication_year": 2021
+  },
+  {
+    "id": 328,
+    "title": "The Eternal Sonata",
+    "author": "Nicholas Sparks",
+    "genre": "Romance",
+    "summary": "A pianist’s lost sonata brings two hearts together.",
+    "publication_year": 2020
+  },
+  {
+    "id": 329,
+    "title": "The Shadowed Relic",
+    "author": "Ken Follett",
+    "genre": "Historical Fiction",
+    "summary": "A medieval relic holds the power to alter the future.",
+    "publication_year": 2019
+  },
+  {
+    "id": 330,
+    "title": "The Phantom’s Diary",
+    "author": "Kate Morton",
+    "genre": "Mystery",
+    "summary": "A lost diary unveils the identity of a legendary phantom.",
+    "publication_year": 2020
+  },
+  {
+    "id": 331,
+    "title": "The Oracle’s Gambit",
+    "author": "Rick Riordan",
+    "genre": "Fantasy",
+    "summary": "A mischievous oracle sets heroes on a dangerous path.",
+    "publication_year": 2021
+  },
+  {
+    "id": 332,
+    "title": "The Silver Throne",
+    "author": "Sarah J. Maas",
+    "genre": "Fantasy",
+    "summary": "A warrior must claim the throne to save her people.",
+    "publication_year": 2023
+  },
+  {
+    "id": 333,
+    "title": "The Midnight Heist",
+    "author": "Michael Connelly",
+    "genre": "Mystery",
+    "summary": "A thief’s final job turns into a deadly game.",
+    "publication_year": 2020
+  },
+  {
+    "id": 334,
+    "title": "The Celestial Map",
+    "author": "Anthony Horowitz",
+    "genre": "Mystery",
+    "summary": "A map from the stars leads to an uncharted treasure.",
+    "publication_year": 2019
+  },
+  {
+    "id": 335,
+    "title": "The Glass Talisman",
+    "author": "Brandon Sanderson",
+    "genre": "Fantasy",
+    "summary": "A talisman grants visions of the past and future.",
+    "publication_year": 2021
+  },
+  {
+    "id": 336,
+    "title": "The Buried Scroll",
+    "author": "John Grisham",
+    "genre": "Legal Thriller",
+    "summary": "A scroll buried for centuries reveals a legal scandal.",
+    "publication_year": 2020
+  },
+  {
+    "id": 337,
+    "title": "The Crimson Tide",
+    "author": "Wilbur Smith",
+    "genre": "Adventure",
+    "summary": "A rogue wave brings an adventurer to a lost island.",
+    "publication_year": 2018
+  },
+  {
+    "id": 338,
+    "title": "The Last Outpost",
+    "author": "Clive Cussler",
+    "genre": "Adventure",
+    "summary": "A hidden outpost in the Arctic holds the key to a war.",
+    "publication_year": 2019
+  },
+  {
+    "id": 339,
+    "title": "The Solar Nexus",
+    "author": "James Rollins",
+    "genre": "Thriller",
+    "summary": "A solar observatory uncovers a chilling space phenomenon.",
+    "publication_year": 2021
+  },
+  {
+    "id": 340,
+    "title": "The Arcane Prism",
+    "author": "Michael Crichton",
+    "genre": "Science Fiction",
+    "summary": "A scientist discovers a prism that alters reality itself.",
+    "publication_year": 2022
+  },
+  {
+    "id": 341,
+    "title": "The Obsidian Veil",
+    "author": "Neil Gaiman",
+    "genre": "Fantasy",
+    "summary": "A mysterious veil hides the entrance to another world.",
+    "publication_year": 2019
+  },
+  {
+    "id": 342,
+    "title": "The Lost Cipher",
+    "author": "Dan Brown",
+    "genre": "Thriller",
+    "summary": "An ancient code leads to a forgotten treasure.",
+    "publication_year": 2020
+  },
+  {
+    "id": 343,
+    "title": "The Moonlit Masquerade",
+    "author": "Sarah J. Maas",
+    "genre": "Romance",
+    "summary": "A secret identity is revealed under the moonlight.",
+    "publication_year": 2021
+  },
+  {
+    "id": 344,
+    "title": "The Titan's Curse",
+    "author": "Rick Riordan",
+    "genre": "Fantasy",
+    "summary": "A powerful curse threatens the world of the gods.",
+    "publication_year": 2007
+  },
+  {
+    "id": 345,
+    "title": "The Forsaken King",
+    "author": "Brandon Sanderson",
+    "genre": "Fantasy",
+    "summary": "A banished king returns to reclaim his throne.",
+    "publication_year": 2022
+  },
+  {
+    "id": 346,
+    "title": "The Whispering Shadows",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "summary": "Shadows in the dark whisper the secrets of the dead.",
+    "publication_year": 2018
+  },
+  {
+    "id": 347,
+    "title": "The Emerald Covenant",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "summary": "A secret agreement leads to an unexpected murder.",
+    "publication_year": 1953
+  },
+  {
+    "id": 348,
+    "title": "The Vanishing Illusion",
+    "author": "Michael Connelly",
+    "genre": "Mystery",
+    "summary": "A famous illusionist disappears without a trace.",
+    "publication_year": 2021
+  },
+  {
+    "id": 349,
+    "title": "The Celestial Prophecy",
+    "author": "David Baldacci",
+    "genre": "Thriller",
+    "summary": "A prophecy hidden in the stars predicts a great disaster.",
+    "publication_year": 2019
+  },
+  {
+    "id": 350,
+    "title": "The Starlit Expedition",
+    "author": "James Rollins",
+    "genre": "Science Fiction",
+    "summary": "A deep-space mission uncovers an ancient civilization.",
+    "publication_year": 2020
+  },
+  {
+    "id": 351,
+    "title": "The Forbidden Tomb",
+    "author": "Clive Cussler",
+    "genre": "Adventure",
+    "summary": "A lost tomb holds the key to an ancient secret.",
+    "publication_year": 2019
+  },
+  {
+    "id": 352,
+    "title": "The Phantom's Pact",
+    "author": "Ken Follett",
+    "genre": "Historical Fiction",
+    "summary": "A pact between phantoms haunts an ancient castle.",
+    "publication_year": 2022
+  },
+  {
+    "id": 353,
+    "title": "The Broken Crown",
+    "author": "George R.R. Martin",
+    "genre": "Fantasy",
+    "summary": "A fallen kingdom seeks its lost heir to reclaim power.",
+    "publication_year": 2021
+  },
+  {
+    "id": 354,
+    "title": "The Silver Serpent",
+    "author": "Philip Pullman",
+    "genre": "Fantasy",
+    "summary": "A mystical serpent guides a boy to his destiny.",
+    "publication_year": 2018
+  },
+  {
+    "id": 355,
+    "title": "The Clockmaker's Secret",
+    "author": "Kate Morton",
+    "genre": "Mystery",
+    "summary": "A hidden compartment in an antique clock reveals a clue.",
+    "publication_year": 2020
+  },
+  {
+    "id": 356,
+    "title": "The Shadow's Edge",
+    "author": "Nicholas Sparks",
+    "genre": "Romance",
+    "summary": "A mysterious man from the past changes a woman's life.",
+    "publication_year": 2021
+  },
+  {
+    "id": 357,
+    "title": "The Arcane Heir",
+    "author": "Sarah J. Maas",
+    "genre": "Fantasy",
+    "summary": "A lost heir discovers the truth about their magical lineage.",
+    "publication_year": 2023
+  },
+  {
+    "id": 358,
+    "title": "The Nightfall Pact",
+    "author": "Anthony Horowitz",
+    "genre": "Mystery",
+    "summary": "A secret society operates only under the cover of night.",
+    "publication_year": 2019
+  },
+  {
+    "id": 359,
+    "title": "The Crimson Labyrinth",
+    "author": "James Patterson",
+    "genre": "Thriller",
+    "summary": "A group of strangers must navigate a deadly labyrinth.",
+    "publication_year": 2020
+  },
+  {
+    "id": 360,
+    "title": "The Icebound Conspiracy",
+    "author": "John Grisham",
+    "genre": "Legal Thriller",
+    "summary": "A frozen island holds the truth behind a major crime.",
+    "publication_year": 2021
+  },
+  {
+    "id": 361,
+    "title": "The Enigma Vault",
+    "author": "Dan Brown",
+    "genre": "Thriller",
+    "summary": "A hidden vault contains secrets that could change history.",
+    "publication_year": 2021
+  },
+  {
+    "id": 362,
+    "title": "The Forgotten Expedition",
+    "author": "Clive Cussler",
+    "genre": "Adventure",
+    "summary": "An ancient map leads to a long-lost expedition.",
+    "publication_year": 2018
+  },
+  {
+    "id": 363,
+    "title": "The Phoenix's Ashes",
+    "author": "Sarah J. Maas",
+    "genre": "Fantasy",
+    "summary": "A young warrior rises from the ashes of betrayal.",
+    "publication_year": 2022
+  },
+  {
+    "id": 364,
+    "title": "The Celestial Code",
+    "author": "James Rollins",
+    "genre": "Science Fiction",
+    "summary": "A scientist deciphers an alien message hidden in the stars.",
+    "publication_year": 2020
+  },
+  {
+    "id": 365,
+    "title": "The Ghost Ship",
+    "author": "Michael Connelly",
+    "genre": "Mystery",
+    "summary": "A missing ship reappears with no crew on board.",
+    "publication_year": 2019
+  },
+  {
+    "id": 366,
+    "title": "The Cursed Dagger",
+    "author": "Rick Riordan",
+    "genre": "Fantasy",
+    "summary": "A cursed artifact brings doom to its wielder.",
+    "publication_year": 2017
+  },
+  {
+    "id": 367,
+    "title": "The Iron Labyrinth",
+    "author": "Brandon Sanderson",
+    "genre": "Fantasy",
+    "summary": "A warrior navigates a deadly maze of shifting iron walls.",
+    "publication_year": 2021
+  },
+  {
+    "id": 368,
+    "title": "The Silent Watcher",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "summary": "A shadowy figure watches from the darkness.",
+    "publication_year": 2018
+  },
+  {
+    "id": 369,
+    "title": "The Golden Locket",
+    "author": "Kate Morton",
+    "genre": "Historical Fiction",
+    "summary": "A locket holds the secret to a forgotten love story.",
+    "publication_year": 2020
+  },
+  {
+    "id": 370,
+    "title": "The Stolen Talisman",
+    "author": "Neil Gaiman",
+    "genre": "Fantasy",
+    "summary": "A young girl embarks on a journey to reclaim a stolen talisman.",
+    "publication_year": 2019
+  },
+  {
+    "id": 371,
+    "title": "The Ivory Tower",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "summary": "A prestigious university hides a dark secret.",
+    "publication_year": 1956
+  },
+  {
+    "id": 372,
+    "title": "The Shadow Pact",
+    "author": "David Baldacci",
+    "genre": "Thriller",
+    "summary": "A secret organization controls world events from the shadows.",
+    "publication_year": 2021
+  },
+  {
+    "id": 373,
+    "title": "The Sapphire Curse",
+    "author": "Philip Pullman",
+    "genre": "Fantasy",
+    "summary": "A legendary sapphire carries a deadly curse.",
+    "publication_year": 2018
+  },
+  {
+    "id": 374,
+    "title": "The Crimson Requiem",
+    "author": "George R.R. Martin",
+    "genre": "Fantasy",
+    "summary": "A fallen knight seeks redemption through a perilous quest.",
+    "publication_year": 2022
+  },
+  {
+    "id": 375,
+    "title": "The Frozen Throne",
+    "author": "Ken Follett",
+    "genre": "Historical Fiction",
+    "summary": "A battle for power unfolds in the icy north.",
+    "publication_year": 2021
+  },
+  {
+    "id": 376,
+    "title": "The Labyrinth Key",
+    "author": "Anthony Horowitz",
+    "genre": "Mystery",
+    "summary": "A cryptic key unlocks a deadly labyrinth.",
+    "publication_year": 2019
+  },
+  {
+    "id": 377,
+    "title": "The Thunderstone",
+    "author": "James Patterson",
+    "genre": "Thriller",
+    "summary": "A meteorite with mysterious properties attracts dangerous attention.",
+    "publication_year": 2020
+  },
+  {
+    "id": 378,
+    "title": "The Serpent's Oath",
+    "author": "Sarah J. Maas",
+    "genre": "Fantasy",
+    "summary": "A warrior must break an ancient oath to save her people.",
+    "publication_year": 2023
+  },
+  {
+    "id": 379,
+    "title": "The Eclipse Conspiracy",
+    "author": "John Grisham",
+    "genre": "Legal Thriller",
+    "summary": "A rare eclipse hides a major crime in plain sight.",
+    "publication_year": 2022
+  },
+  {
+    "id": 380,
+    "title": "The Infernal Clock",
+    "author": "Nicholas Sparks",
+    "genre": "Mystery",
+    "summary": "A clock that never stops ticking holds a deadly secret.",
+    "publication_year": 2021
+  },
+  {
+    "id": 381,
+    "title": "The Obsidian Crown",
+    "author": "Brandon Sanderson",
+    "genre": "Fantasy",
+    "summary": "A lost prince must reclaim his throne with an ancient artifact.",
+    "publication_year": 2022
+  },
+  {
+    "id": 382,
+    "title": "The Clockwork Betrayal",
+    "author": "Philip Pullman",
+    "genre": "Steampunk",
+    "summary": "A scientist's invention sparks a revolution.",
+    "publication_year": 2019
+  },
+  {
+    "id": 383,
+    "title": "The Lost City of Echoes",
+    "author": "James Rollins",
+    "genre": "Adventure",
+    "summary": "An expedition discovers a hidden city lost in time.",
+    "publication_year": 2020
+  },
+  {
+    "id": 384,
+    "title": "The Dark Oracle",
+    "author": "Sarah J. Maas",
+    "genre": "Fantasy",
+    "summary": "A young woman seeks forbidden knowledge from an ancient oracle.",
+    "publication_year": 2023
+  },
+  {
+    "id": 385,
+    "title": "The Vanishing Lighthouse",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "summary": "A lighthouse keeper vanishes without a trace, leaving only clues.",
+    "publication_year": 1955
+  },
+  {
+    "id": 386,
+    "title": "The Winter's Curse",
+    "author": "George R.R. Martin",
+    "genre": "Fantasy",
+    "summary": "A kingdom faces an eternal winter brought by an ancient spell.",
+    "publication_year": 2021
+  },
+  {
+    "id": 387,
+    "title": "The Quantum Paradox",
+    "author": "Michael Crichton",
+    "genre": "Science Fiction",
+    "summary": "A physics experiment goes wrong, altering reality itself.",
+    "publication_year": 2020
+  },
+  {
+    "id": 388,
+    "title": "The Black Rose Society",
+    "author": "Dan Brown",
+    "genre": "Thriller",
+    "summary": "A secret organization holds the key to an ancient mystery.",
+    "publication_year": 2018
+  },
+  {
+    "id": 389,
+    "title": "The Silent Cathedral",
+    "author": "Kate Morton",
+    "genre": "Historical Fiction",
+    "summary": "A hidden chamber in a cathedral reveals a buried past.",
+    "publication_year": 2019
+  },
+  {
+    "id": 390,
+    "title": "The Crimson Cipher",
+    "author": "James Patterson",
+    "genre": "Thriller",
+    "summary": "A cryptographer must solve a deadly code before time runs out.",
+    "publication_year": 2022
+  },
+  {
+    "id": 391,
+    "title": "The Shadow in the Fog",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "summary": "A town is haunted by a figure lurking in the mist.",
+    "publication_year": 2021
+  },
+  {
+    "id": 392,
+    "title": "The Jade Compass",
+    "author": "Clive Cussler",
+    "genre": "Adventure",
+    "summary": "An ancient compass leads to a lost treasure.",
+    "publication_year": 2018
+  },
+  {
+    "id": 393,
+    "title": "The Witch's Bargain",
+    "author": "Rick Riordan",
+    "genre": "Fantasy",
+    "summary": "A boy makes a deal with a witch for forbidden power.",
+    "publication_year": 2017
+  },
+  {
+    "id": 394,
+    "title": "The Silver Mirage",
+    "author": "David Baldacci",
+    "genre": "Thriller",
+    "summary": "An elusive assassin leaves no trace except a silver coin.",
+    "publication_year": 2021
+  },
+  {
+    "id": 395,
+    "title": "The Emerald Key",
+    "author": "Ken Follett",
+    "genre": "Historical Fiction",
+    "summary": "A secret key unlocks the truth about a royal conspiracy.",
+    "publication_year": 2020
+  },
+  {
+    "id": 396,
+    "title": "The Lost Prophecy",
+    "author": "Nicholas Sparks",
+    "genre": "Mystery",
+    "summary": "An old manuscript foretells a disaster only one man can stop.",
+    "publication_year": 2019
+  },
+  {
+    "id": 397,
+    "title": "The Twilight Pact",
+    "author": "John Grisham",
+    "genre": "Legal Thriller",
+    "summary": "A lawyer stumbles upon a hidden pact that shakes the legal world.",
+    "publication_year": 2021
+  },
+  {
+    "id": 398,
+    "title": "The Infernal Echo",
+    "author": "Neil Gaiman",
+    "genre": "Fantasy",
+    "summary": "A cursed melody dooms those who hear it.",
+    "publication_year": 2018
+  },
+  {
+    "id": 399,
+    "title": "The Sapphire Labyrinth",
+    "author": "Anthony Horowitz",
+    "genre": "Mystery",
+    "summary": "A detective navigates a deadly labyrinth to find a stolen gem.",
+    "publication_year": 2020
+  },
+  {
+    "id": 400,
+    "title": "The Final Omen",
+    "author": "James Rollins",
+    "genre": "Thriller",
+    "summary": "An ancient prophecy warns of an approaching apocalypse.",
+    "publication_year": 2022
+  },
+  {
+    "id": 401,
+    "title": "The Phantom Codex",
+    "author": "Dan Brown",
+    "genre": "Thriller",
+    "summary": "A hidden manuscript threatens to rewrite history.",
+    "publication_year": 2021
+  },
+  {
+    "id": 402,
+    "title": "The Celestial War",
+    "author": "Brandon Sanderson",
+    "genre": "Fantasy",
+    "summary": "Gods wage war in a realm beyond time.",
+    "publication_year": 2019
+  },
+  {
+    "id": 403,
+    "title": "The Hollow Crown",
+    "author": "George R.R. Martin",
+    "genre": "Fantasy",
+    "summary": "A kingdom crumbles under the weight of ambition.",
+    "publication_year": 2022
+  },
+  {
+    "id": 404,
+    "title": "The Crimson Pact",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "summary": "A town's fate is sealed by a bloodstained agreement.",
+    "publication_year": 2020
+  },
+  {
+    "id": 405,
+    "title": "The Shattered Mirror",
+    "author": "Sarah J. Maas",
+    "genre": "Fantasy",
+    "summary": "A cursed mirror reveals the darkest truths.",
+    "publication_year": 2021
+  },
+  {
+    "id": 406,
+    "title": "The Ivory Tower",
+    "author": "Ken Follett",
+    "genre": "Historical Fiction",
+    "summary": "A scholar's discovery shakes the academic world.",
+    "publication_year": 2018
+  },
+  {
+    "id": 407,
+    "title": "The Lost Star",
+    "author": "James Rollins",
+    "genre": "Science Fiction",
+    "summary": "An astronomer discovers a celestial body with a deadly secret.",
+    "publication_year": 2019
+  },
+  {
+    "id": 408,
+    "title": "The Midnight Assassin",
+    "author": "David Baldacci",
+    "genre": "Thriller",
+    "summary": "A serial killer strikes only at midnight.",
+    "publication_year": 2022
+  },
+  {
+    "id": 409,
+    "title": "The Forgotten Heir",
+    "author": "Rick Riordan",
+    "genre": "Fantasy",
+    "summary": "A young girl discovers her royal lineage and a dark destiny.",
+    "publication_year": 2020
+  },
+  {
+    "id": 410,
+    "title": "The Shadowed Throne",
+    "author": "Philip Pullman",
+    "genre": "Fantasy",
+    "summary": "A mysterious ruler pulls the strings of an empire.",
+    "publication_year": 2023
+  },
+  {
+    "id": 411,
+    "title": "The Obsidian Mask",
+    "author": "Michael Crichton",
+    "genre": "Thriller",
+    "summary": "An archaeologist uncovers a cursed artifact.",
+    "publication_year": 2021
+  },
+  {
+    "id": 412,
+    "title": "The Whispering Woods",
+    "author": "Kate Morton",
+    "genre": "Mystery",
+    "summary": "A forest holds the key to an unsolved disappearance.",
+    "publication_year": 2017
+  },
+  {
+    "id": 413,
+    "title": "The Silver Curse",
+    "author": "Anthony Horowitz",
+    "genre": "Mystery",
+    "summary": "A cursed amulet dooms its owner to a tragic fate.",
+    "publication_year": 2018
+  },
+  {
+    "id": 414,
+    "title": "The Burning Sky",
+    "author": "Clive Cussler",
+    "genre": "Adventure",
+    "summary": "A pilot must stop a deadly experiment before it’s too late.",
+    "publication_year": 2020
+  },
+  {
+    "id": 415,
+    "title": "The Sapphire Dagger",
+    "author": "John Grisham",
+    "genre": "Thriller",
+    "summary": "A relic tied to a political conspiracy vanishes.",
+    "publication_year": 2019
+  },
+  {
+    "id": 416,
+    "title": "The Eternal Key",
+    "author": "Neil Gaiman",
+    "genre": "Fantasy",
+    "summary": "A key that unlocks time itself falls into the wrong hands.",
+    "publication_year": 2021
+  },
+  {
+    "id": 417,
+    "title": "The Hidden Kingdom",
+    "author": "Nicholas Sparks",
+    "genre": "Mystery",
+    "summary": "A journalist stumbles upon a country erased from history.",
+    "publication_year": 2022
+  },
+  {
+    "id": 418,
+    "title": "The Last Guardian",
+    "author": "Brandon Sanderson",
+    "genre": "Fantasy",
+    "summary": "A guardian protects an ancient library of forbidden knowledge.",
+    "publication_year": 2020
+  },
+  {
+    "id": 419,
+    "title": "The Iron Gauntlet",
+    "author": "Dan Brown",
+    "genre": "Thriller",
+    "summary": "A secret society fights to control an indestructible relic.",
+    "publication_year": 2018
+  },
+  {
+    "id": 420,
+    "title": "The Moonlit Covenant",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "summary": "A secret society's pact resurfaces with deadly consequences.",
+    "publication_year": 1957
+  },
+  {
+    "id": 421,
+    "title": "The Amber Prophecy",
+    "author": "Rick Riordan",
+    "genre": "Fantasy",
+    "summary": "A young hero must fulfill an ancient prophecy to save the world.",
+    "publication_year": 2021
+  },
+  {
+    "id": 422,
+    "title": "The Shadow Enigma",
+    "author": "Dan Brown",
+    "genre": "Thriller",
+    "summary": "A cryptographer deciphers a code that could alter history.",
+    "publication_year": 2019
+  },
+  {
+    "id": 423,
+    "title": "The Forgotten Cipher",
+    "author": "John Grisham",
+    "genre": "Mystery",
+    "summary": "A hidden message in an old manuscript leads to a deadly chase.",
+    "publication_year": 2020
+  },
+  {
+    "id": 424,
+    "title": "The Frostbound Throne",
+    "author": "Brandon Sanderson",
+    "genre": "Fantasy",
+    "summary": "A prince must reclaim his frozen kingdom from an ancient evil.",
+    "publication_year": 2022
+  },
+  {
+    "id": 425,
+    "title": "The Arcane Codex",
+    "author": "Michael Crichton",
+    "genre": "Thriller",
+    "summary": "A scientist stumbles upon a book of forbidden knowledge.",
+    "publication_year": 2018
+  },
+  {
+    "id": 426,
+    "title": "The Crimson Shadow",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "summary": "A town is haunted by a shadow that feeds on fear.",
+    "publication_year": 2021
+  },
+  {
+    "id": 427,
+    "title": "The Celestial Map",
+    "author": "James Rollins",
+    "genre": "Science Fiction",
+    "summary": "An ancient map points to a lost planet hidden in the stars.",
+    "publication_year": 2019
+  },
+  {
+    "id": 428,
+    "title": "The Emerald Curse",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "summary": "A rare emerald carries a deadly secret across generations.",
+    "publication_year": 1954
+  },
+  {
+    "id": 429,
+    "title": "The Forgotten Kingdom",
+    "author": "Kate Morton",
+    "genre": "Historical Fiction",
+    "summary": "An archaeologist uncovers the ruins of an empire lost to time.",
+    "publication_year": 2017
+  },
+  {
+    "id": 430,
+    "title": "The Phantom’s Lament",
+    "author": "Philip Pullman",
+    "genre": "Fantasy",
+    "summary": "A ghost seeks revenge in a kingdom of magic and betrayal.",
+    "publication_year": 2020
+  },
+  {
+    "id": 431,
+    "title": "The Obsidian Dagger",
+    "author": "Clive Cussler",
+    "genre": "Adventure",
+    "summary": "A treasure hunter races against time to recover a legendary dagger.",
+    "publication_year": 2021
+  },
+  {
+    "id": 432,
+    "title": "The Sapphire Heir",
+    "author": "Nicholas Sparks",
+    "genre": "Romance",
+    "summary": "A young woman discovers she is the heir to a lost fortune.",
+    "publication_year": 2018
+  },
+  {
+    "id": 433,
+    "title": "The Infernal Clock",
+    "author": "Anthony Horowitz",
+    "genre": "Thriller",
+    "summary": "A scientist invents a device that can manipulate time.",
+    "publication_year": 2019
+  },
+  {
+    "id": 434,
+    "title": "The Silver Serpent",
+    "author": "Sarah J. Maas",
+    "genre": "Fantasy",
+    "summary": "A warrior must tame a mythical beast to save her homeland.",
+    "publication_year": 2022
+  },
+  {
+    "id": 435,
+    "title": "The Vanishing Star",
+    "author": "David Baldacci",
+    "genre": "Mystery",
+    "summary": "A famous astronomer disappears under mysterious circumstances.",
+    "publication_year": 2020
+  },
+  {
+    "id": 436,
+    "title": "The Stolen Manuscript",
+    "author": "Ken Follett",
+    "genre": "Historical Fiction",
+    "summary": "A lost manuscript holds the key to an unsolved mystery.",
+    "publication_year": 2019
+  },
+  {
+    "id": 437,
+    "title": "The Shadowed Tome",
+    "author": "Neil Gaiman",
+    "genre": "Fantasy",
+    "summary": "A forbidden book grants unimaginable power to its reader.",
+    "publication_year": 2021
+  },
+  {
+    "id": 438,
+    "title": "The Lunar Prophecy",
+    "author": "Brandon Sanderson",
+    "genre": "Fantasy",
+    "summary": "A prophecy foretells the rise of a hero beneath the twin moons.",
+    "publication_year": 2023
+  },
+  {
+    "id": 439,
+    "title": "The Hidden Labyrinth",
+    "author": "Dan Brown",
+    "genre": "Thriller",
+    "summary": "An ancient labyrinth conceals secrets that could change the world.",
+    "publication_year": 2020
+  },
+  {
+    "id": 440,
+    "title": "The Moonlit Masquerade",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "summary": "A masked ball turns deadly when a priceless jewel is stolen.",
+    "publication_year": 1956
+  },
+  {
+    "id": 441,
+    "title": "The Enchanted Mirror",
+    "author": "Sarah J. Maas",
+    "genre": "Fantasy",
+    "summary": "A magical mirror reveals glimpses of a forgotten past.",
+    "publication_year": 2021
+  },
+  {
+    "id": 442,
+    "title": "The Crimson Key",
+    "author": "Dan Brown",
+    "genre": "Thriller",
+    "summary": "A secret key unlocks a hidden truth buried for centuries.",
+    "publication_year": 2020
+  },
+  {
+    "id": 443,
+    "title": "The Ivory Tower",
+    "author": "Ken Follett",
+    "genre": "Historical Fiction",
+    "summary": "An architect's ambition to build the tallest tower leads to intrigue.",
+    "publication_year": 2018
+  },
+  {
+    "id": 444,
+    "title": "The Lost Legacy",
+    "author": "Rick Riordan",
+    "genre": "Adventure",
+    "summary": "A group of young explorers set out to uncover a hidden treasure.",
+    "publication_year": 2022
+  },
+  {
+    "id": 445,
+    "title": "The Phantom’s Curse",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "summary": "A cursed book brings nightmares to those who read it.",
+    "publication_year": 2021
+  },
+  {
+    "id": 446,
+    "title": "The Sapphire Enigma",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "summary": "A rare sapphire goes missing, leading to a web of deception.",
+    "publication_year": 1957
+  },
+  {
+    "id": 447,
+    "title": "The Obsidian Heart",
+    "author": "Brandon Sanderson",
+    "genre": "Fantasy",
+    "summary": "A warrior must protect a mystical artifact with world-altering power.",
+    "publication_year": 2023
+  },
+  {
+    "id": 448,
+    "title": "The Arctic Expedition",
+    "author": "Michael Crichton",
+    "genre": "Adventure",
+    "summary": "Scientists embark on a perilous journey to the North Pole.",
+    "publication_year": 2019
+  },
+  {
+    "id": 449,
+    "title": "The Shadow Game",
+    "author": "John Grisham",
+    "genre": "Thriller",
+    "summary": "A lawyer uncovers a conspiracy in a high-stakes legal battle.",
+    "publication_year": 2020
+  },
+  {
+    "id": 450,
+    "title": "The Celestial Crown",
+    "author": "Philip Pullman",
+    "genre": "Fantasy",
+    "summary": "A young queen must prove her worth to claim a legendary crown.",
+    "publication_year": 2022
+  },
+  {
+    "id": 451,
+    "title": "The Forgotten Heirloom",
+    "author": "Kate Morton",
+    "genre": "Historical Fiction",
+    "summary": "A family heirloom holds the key to uncovering a century-old mystery.",
+    "publication_year": 2017
+  },
+  {
+    "id": 452,
+    "title": "The Infernal Pact",
+    "author": "Neil Gaiman",
+    "genre": "Fantasy",
+    "summary": "A man makes a deal with a demon, but at what cost?",
+    "publication_year": 2021
+  },
+  {
+    "id": 453,
+    "title": "The Vanishing Island",
+    "author": "Clive Cussler",
+    "genre": "Adventure",
+    "summary": "An island mysteriously disappears, leaving only questions behind.",
+    "publication_year": 2019
+  },
+  {
+    "id": 454,
+    "title": "The Whispering Tomb",
+    "author": "David Baldacci",
+    "genre": "Mystery",
+    "summary": "A journalist investigates whispers of ghosts in an ancient tomb.",
+    "publication_year": 2020
+  },
+  {
+    "id": 455,
+    "title": "The Golden Cipher",
+    "author": "James Rollins",
+    "genre": "Thriller",
+    "summary": "A hidden code leads to a lost treasure buried deep underground.",
+    "publication_year": 2018
+  },
+  {
+    "id": 456,
+    "title": "The Stolen Crown",
+    "author": "Nicholas Sparks",
+    "genre": "Romance",
+    "summary": "A forbidden love blossoms in a kingdom on the brink of war.",
+    "publication_year": 2019
+  },
+  {
+    "id": 457,
+    "title": "The Mystic Scrolls",
+    "author": "Anthony Horowitz",
+    "genre": "Fantasy",
+    "summary": "Ancient scrolls reveal a prophecy that could change the world.",
+    "publication_year": 2022
+  },
+  {
+    "id": 458,
+    "title": "The Glass Tower",
+    "author": "Sarah J. Maas",
+    "genre": "Fantasy",
+    "summary": "A princess is trapped in a glass tower, waiting for her destiny.",
+    "publication_year": 2023
+  },
+  {
+    "id": 459,
+    "title": "The Moonlit Veil",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "summary": "A detective investigates a series of murders under the full moon.",
+    "publication_year": 1958
+  },
+  {
+    "id": 460,
+    "title": "The Hidden Portrait",
+    "author": "Kate Morton",
+    "genre": "Historical Fiction",
+    "summary": "A long-lost painting resurfaces, leading to an unexpected revelation.",
+    "publication_year": 2016
+  },
+  {
+    "id": 461,
+    "title": "The Silent Echo",
+    "author": "Nicholas Sparks",
+    "genre": "Romance",
+    "summary": "A woman hears whispers from the past, leading her to rediscover lost love.",
+    "publication_year": 2019
+  },
+  {
+    "id": 462,
+    "title": "The Emerald Prophecy",
+    "author": "Brandon Sanderson",
+    "genre": "Fantasy",
+    "summary": "A prophecy foretells the rise of a hidden kingdom.",
+    "publication_year": 2023
+  },
+  {
+    "id": 463,
+    "title": "The Cursed Manuscript",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "summary": "A writer discovers his novel is coming true—with deadly consequences.",
+    "publication_year": 2020
+  },
+  {
+    "id": 464,
+    "title": "The Ocean’s Secret",
+    "author": "Michael Crichton",
+    "genre": "Adventure",
+    "summary": "A deep-sea expedition uncovers something never meant to be found.",
+    "publication_year": 2018
+  },
+  {
+    "id": 465,
+    "title": "The Lunar Deception",
+    "author": "Dan Brown",
+    "genre": "Thriller",
+    "summary": "A scientist stumbles upon a conspiracy hidden on the moon.",
+    "publication_year": 2021
+  },
+  {
+    "id": 466,
+    "title": "The Forgotten Melody",
+    "author": "Kate Morton",
+    "genre": "Historical Fiction",
+    "summary": "A lost melody holds the key to a long-buried family secret.",
+    "publication_year": 2017
+  },
+  {
+    "id": 467,
+    "title": "The Celestial Labyrinth",
+    "author": "Philip Pullman",
+    "genre": "Fantasy",
+    "summary": "A magical maze appears in the night sky, leading the brave to destiny.",
+    "publication_year": 2022
+  },
+  {
+    "id": 468,
+    "title": "The Seventh Hour",
+    "author": "John Grisham",
+    "genre": "Thriller",
+    "summary": "A lawyer has seven hours to uncover a truth that could change everything.",
+    "publication_year": 2020
+  },
+  {
+    "id": 469,
+    "title": "The Scarlet Shadow",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "summary": "A detective investigates a murder linked to an old legend.",
+    "publication_year": 1959
+  },
+  {
+    "id": 470,
+    "title": "The Phantom Lighthouse",
+    "author": "Clive Cussler",
+    "genre": "Adventure",
+    "summary": "A lost lighthouse holds the key to a centuries-old mystery.",
+    "publication_year": 2019
+  },
+  {
+    "id": 471,
+    "title": "The Whispering Oak",
+    "author": "Neil Gaiman",
+    "genre": "Fantasy",
+    "summary": "An ancient tree holds the memories of those who have passed.",
+    "publication_year": 2021
+  },
+  {
+    "id": 472,
+    "title": "The Hidden Fortress",
+    "author": "Ken Follett",
+    "genre": "Historical Fiction",
+    "summary": "A secret fortress hides a powerful relic from the past.",
+    "publication_year": 2018
+  },
+  {
+    "id": 473,
+    "title": "The Vanishing Train",
+    "author": "David Baldacci",
+    "genre": "Mystery",
+    "summary": "A train full of passengers disappears into the night without a trace.",
+    "publication_year": 2020
+  },
+  {
+    "id": 474,
+    "title": "The Sapphire Curse",
+    "author": "Sarah J. Maas",
+    "genre": "Fantasy",
+    "summary": "A cursed sapphire binds a princess to an unknown fate.",
+    "publication_year": 2023
+  },
+  {
+    "id": 475,
+    "title": "The Forgotten Kingdom",
+    "author": "Rick Riordan",
+    "genre": "Adventure",
+    "summary": "A group of explorers uncovers a kingdom lost in time.",
+    "publication_year": 2022
+  },
+  {
+    "id": 476,
+    "title": "Learn in the Dark, Work in the Light",
+    "author": "CHILUKURI MALLIKHARJUN REDDY",
+    "genre": "Motivation",
+    "summary": "Success is built in silence—learn when no one watches, shine when it matters.",
+    "publication_year": 2025
+  },
+  {
+    "id": 477,
+    "title": "The Obsidian Mask",
+    "author": "James Rollins",
+    "genre": "Thriller",
+    "summary": "An ancient mask grants power—but at a terrible cost.",
+    "publication_year": 2018
+  },
+  {
+    "id": 478,
+    "title": "The Arctic Watch",
+    "author": "Michael Crichton",
+    "genre": "Adventure",
+    "summary": "Scientists in the Arctic uncover a secret that should have remained buried.",
+    "publication_year": 2019
+  },
+  {
+    "id": 479,
+    "title": "The Serpent’s Secret",
+    "author": "Anthony Horowitz",
+    "genre": "Fantasy",
+    "summary": "A young hero must battle a serpent to save their kingdom.",
+    "publication_year": 2022
+  },
+  {
+    "id": 480,
+    "title": "Lost in the Echo",
+    "author": "Sandra P. Reeves",
+    "genre": "Mystery",
+    "summary": "A detective uncovers long-buried secrets while solving a baffling disappearance.",
+    "publication_year": 2021
+  },
+  {
+    "id": 481,
+    "title": "Echoes of the Ancients",
+    "author": "Jonathan T. Blake",
+    "genre": "Historical Fiction",
+    "summary": "An epic journey through the ruins of an ancient civilization and the secrets they left behind.",
+    "publication_year": 2020
+  },
+  {
+    "id": 482,
+    "title": "Neon Skies",
+    "author": "Rachel M. Foster",
+    "genre": "Cyberpunk",
+    "summary": "In a neon-lit metropolis, a rogue hacker fights against a corrupt corporate empire.",
+    "publication_year": 2024
+  },
+  {
+    "id": 483,
+    "title": "Mind Over Matter",
+    "author": "Dr. Samuel Vance",
+    "genre": "Self-Help",
+    "summary": "A guide to mastering mental resilience and achieving personal success.",
+    "publication_year": 2023
+  },
+  {
+    "id": 484,
+    "title": "The Forbidden Archive",
+    "author": "Olivia K. Turner",
+    "genre": "Fantasy",
+    "summary": "A young scholar stumbles upon a secret library containing the most dangerous knowledge in history.",
+    "publication_year": 2022
+  },
+  {
+    "id": 485,
+    "title": "Fractured Reality",
+    "author": "Nathan R. Carter",
+    "genre": "Psychological Thriller",
+    "summary": "A scientist discovers alternate realities but struggles to distinguish what is real.",
+    "publication_year": 2021
+  },
+  {
+    "id": 486,
+    "title": "The Silent Observer",
+    "author": "James D. Everett",
+    "genre": "Thriller",
+    "summary": "A mysterious figure watches over a city, unraveling crimes before they happen.",
+    "publication_year": 2023
+  },
+  {
+    "id": 487,
+    "title": "The Last Dawn",
+    "author": "Rebecca L. Simmons",
+    "genre": "Post-Apocalyptic",
+    "summary": "A gripping tale of survival in a world on the brink of collapse.",
+    "publication_year": 2024
+  },
+  {
+    "id": 488,
+    "title": "Quantum Paradox",
+    "author": "Dr. Alan T. Morrison",
+    "genre": "Science Fiction",
+    "summary": "A physicist’s groundbreaking discovery leads to an unraveling of time itself.",
+    "publication_year": 2022
+  },
+  {
+    "id": 489,
+    "title": "Broken Chains",
+    "author": "Linda M. Dawson",
+    "genre": "Historical Fiction",
+    "summary": "A powerful story of one woman’s fight for freedom in the 18th century.",
+    "publication_year": 2020
+  },
+  {
+    "id": 490,
+    "title": "Beneath the Ice",
+    "author": "Stephen K. Harris",
+    "genre": "Adventure",
+    "summary": "An expedition to Antarctica uncovers secrets frozen for millennia.",
+    "publication_year": 2023
+  },
+  {
+    "id": 491,
+    "title": "Virtual Deception",
+    "author": "Emma R. Taylor",
+    "genre": "Cyber Thriller",
+    "summary": "A hacker finds themselves trapped in a deadly virtual game with real-world consequences.",
+    "publication_year": 2021
+  },
+  {
+    "id": 492,
+    "title": "The Art of Stillness",
+    "author": "Daniel S. Monroe",
+    "genre": "Self-Help",
+    "summary": "A guide to finding peace and mindfulness in a chaotic world.",
+    "publication_year": 2024
+  },
+  {
+    "id": 493,
+    "title": "The Hidden Kingdom",
+    "author": "Isabelle C. Grant",
+    "genre": "Fantasy",
+    "summary": "A young warrior discovers a forgotten realm with magic long thought extinct.",
+    "publication_year": 2022
+  },
+  {
+    "id": 494,
+    "title": "Legacy of Ash",
+    "author": "Jonathan T. Blake",
+    "genre": "Epic Fantasy",
+    "summary": "A fallen empire’s last heirs must reclaim their destiny.",
+    "publication_year": 2023
+  },
+  {
+    "id": 495,
+    "title": "The Watchmaker’s Secret",
+    "author": "Henry P. Wallace",
+    "genre": "Mystery",
+    "summary": "A hidden message in an antique watch leads to a century-old mystery.",
+    "publication_year": 2020
+  },
+  {
+    "id": 496,
+    "title": "Echoes of the Abyss",
+    "author": "Nathaniel R. King",
+    "genre": "Horror",
+    "summary": "A deep-sea dive uncovers an ancient horror lurking beneath the ocean.",
+    "publication_year": 2023
+  },
+  {
+    "id": 497,
+    "title": "The Architect’s Legacy",
+    "author": "Catherine J. Stewart",
+    "genre": "Historical Fiction",
+    "summary": "A brilliant architect leaves behind a mystery hidden within his designs.",
+    "publication_year": 2021
+  },
+  {
+    "id": 498,
+    "title": "Shadow Protocol",
+    "author": "Robert D. Harrington",
+    "genre": "Spy Thriller",
+    "summary": "A rogue agent uncovers a secret organization controlling world events.",
+    "publication_year": 2024
+  },
+  {
+    "id": 499,
+    "title": "The Forgotten City",
+    "author": "Lillian M. Carter",
+    "genre": "Adventure",
+    "summary": "Archaeologists stumble upon a lost civilization hidden in the Amazon.",
+    "publication_year": 2022
+  },
+  {
+    "id": 500,
+    "title": "Code of Silence",
+    "author": "Ethan S. Mitchell",
+    "genre": "Crime Fiction",
+    "summary": "A detective must break the silence of a crime-ridden town to uncover the truth.",
+    "publication_year": 2023
+  },
+  {
+    "id": 501,
+    "title": "The Lunar Enigma",
+    "author": "Olivia R. Hayes",
+    "genre": "Science Fiction",
+    "summary": "A hidden structure on the Moon reveals a shocking secret about humanity’s past.",
+    "publication_year": 2025
+  },
+  {
+    "id": 502,
+    "title": "Threads of Fate",
+    "author": "Sophia L. Brooks",
+    "genre": "Fantasy",
+    "summary": "A young woman learns she can alter destiny through magical weaving.",
+    "publication_year": 2022
+  },
+  {
+    "id": 503,
+    "title": "The Philosopher’s Paradox",
+    "author": "Gregory T. Bennett",
+    "genre": "Philosophy",
+    "summary": "A journey through the most mind-bending paradoxes in human thought.",
+    "publication_year": 2024
+  },
+  {
+    "id": 504,
+    "title": "Beneath the Ruins",
+    "author": "Margaret N. Elliot",
+    "genre": "Mystery",
+    "summary": "An archaeologist discovers a hidden chamber that changes history.",
+    "publication_year": 2021
+  },
+  {
+    "id": 505,
+    "title": "The Quantum Gambit",
+    "author": "Benjamin K. Ross",
+    "genre": "Techno-Thriller",
+    "summary": "A chess prodigy uses quantum computing to outwit global intelligence agencies.",
+    "publication_year": 2023
+  }
+]
