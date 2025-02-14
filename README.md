@@ -73,7 +73,7 @@ https://books-own-api.onrender.com/filter?author={author_name}
 ```
 **Example Request:**  
 ```
-https://books-own-api.onrender.com/filter?author=Harper%20Lee
+http://localhost:3000/filter/author?author={authorName}
 ```
 **Response:**  
 ```json
@@ -91,7 +91,41 @@ https://books-own-api.onrender.com/filter?author=Harper%20Lee
 
 ---
 
-## **4. Add a New Book**
+
+## **4. Filter Books by Genre**
+**Endpoint:**  
+```
+GET /filter?author={author_name}
+```
+**Complete Reference Link:**  
+```
+https://books-own-api.onrender.com/filter?author={author_name}
+```
+**Example Request:**  
+```
+http://localhost:3000/filter/genre?genre={genre_name}
+```
+**Response:**  
+```json
+[
+  {
+    "id": 1,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "Fiction",
+    "summary": "A novel about racial injustice and moral growth in the Deep South.",
+    "publication_year": 1960
+  }
+]
+```
+
+---
+
+
+
+
+
+## **5. Add a New Book**
 **Endpoint:**  
 ```
 POST /books
@@ -130,7 +164,7 @@ https://books-own-api.onrender.com/books
 
 ---
 
-## **5. Update a Book (Full Update)**
+## **6. Update a Book (Full Update)**
 **Endpoint:**  
 ```
 PUT /books/{id}
@@ -163,7 +197,7 @@ https://books-own-api.onrender.com/books/{id}
 
 ---
 
-## **6. Update a Book (Partial Update)**
+## **7. Update a Book (Partial Update)**
 **Endpoint:**  
 ```
 PATCH /books/{id}
@@ -192,7 +226,7 @@ https://books-own-api.onrender.com/books/{id}
 
 ---
 
-## **7. Delete a Book**
+## **8. Delete a Book**
 **Endpoint:**  
 ```
 DELETE /books/{id}
