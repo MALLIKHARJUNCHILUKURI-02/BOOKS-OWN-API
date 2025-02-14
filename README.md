@@ -94,12 +94,92 @@ http://localhost:3000/filter/author?author={authorName}
 
 ## **4. Filter Books by Genre**
 **Endpoint:**  
+
+
+# Book API - Genre List
+
+## Overview
+The **Book API** includes a diverse collection of books categorized into various genres. These genres help users explore and filter books based on their interests. Below is the complete list of unique genres available in the API.
+
+## List of Genres
+
+### Fiction & Literature
+- Fiction
+- Classic
+- Modernist Fiction
+- Literary Fiction
+- Philosophical Fiction
+- Absurdist Fiction
+- Autobiographical Fiction
+- Psychological Fiction
+- Gothic Fiction
+- Epic Poetry
+
+### Science Fiction & Fantasy
+- Fantasy
+- Epic Fantasy
+- Science Fiction
+- Cyberpunk
+- Cyber Thriller
+- Post-Apocalyptic
+- Post-Apocalyptic Fiction
+- Dystopian
+- Dystopian Fiction
+- Steampunk
+- Magical Realism
+
+### Mystery & Thriller
+- Mystery
+- Thriller
+- Psychological Thriller
+- Historical Thriller
+- Spy Thriller
+- Action Thriller
+- Legal Thriller
+- Crime Fiction
+- Crime
+- Tech Thriller
+- Techno-Thriller
+- Dark Fantasy
+
+### Historical & Adventure
+- Adventure
+- Historical Fiction
+- Historical Mystery
+- Historical Romance
+
+### Horror & Supernatural
+- Horror
+- Mythology
+
+### Drama & Romance
+- Drama
+- Romance
+- Historical Romance
+
+### Non-Fiction & Educational
+- Motivation
+- Self-Help
+- Self-Improvement
+- Self-Development
+- Philosophy
+- Technology
+- Science & Engineering
+- Engineering
+- Sports & Data Science
+- Art & Creativity
+
+### Miscellaneous
+- Satire
+- Western
+- Action
+
 ```
-GET /filter?author={author_name}
+GET /filter?genre={genre}
 ```
 **Complete Reference Link:**  
 ```
-https://books-own-api.onrender.com/filter?author={author_name}
+https://books-own-api.onrender.com/filter?genre={genre}
 ```
 **Example Request:**  
 ```

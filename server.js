@@ -6,6 +6,7 @@ import bodyParser from "body-parser";
 const app = express();
 const PORT = 3000;
 const DATA_FILE = "books.json";
+const KEY_FILE = "masterkey.json"
 
 app.use(cors());
 app.use(express.json());
